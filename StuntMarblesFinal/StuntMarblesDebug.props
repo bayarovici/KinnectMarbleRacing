@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <LibraryPath>C:\opencv231\build\x86\vc10\lib;C:\Program Files %28x86%29\OpenNI\Lib;C:\Program Files %28x86%29\boost\boost_1_47\lib;C:\Users\Kerouinci\Documents\Visual Studio 2010\Projects\SIMON LUCAS VISUAL\ODE\ode011\lib;C:\SoftwareDevelopement\irrKlang-1.4.0\lib\Win32-visualStudio;C:\SoftwareDevelopement\irrlicht-1.7.3\lib\Win32-visualstudio;C:\Users\Kerouinci\Documents\Visual Studio 2010\Projects\SIMON LUCAS VISUAL\ODE\irrOde3\bin\vc2008;$(VCInstallDir)lib;$(VCInstallDir)atlmfc\lib;$(WindowsSdkDir)lib;$(FrameworkSDKDir)\lib</LibraryPath>
+    <IncludePath>C:\opencv231\build\include;project\include\Kinect;C:\Program Files %28x86%29\OpenNI\Include;C:\Program Files %28x86%29\boost\boost_1_47;project\include\irrNetLite;project\include\;project\include\GameClasses;project\include\CodeSnippets;C:\Users\Kerouinci\Documents\Visual Studio 2010\Projects\SIMON LUCAS VISUAL\ODE\irrOde3\include\IrrOde;C:\Users\Kerouinci\Documents\Visual Studio 2010\Projects\SIMON LUCAS VISUAL\ODE\ode011\include;C:\SoftwareDevelopement\irrlicht-1.7.3\include;C:\SoftwareDevelopement\irrKlang-1.4.0\include;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalDependencies>OpenNI.lib;opencv_core231d.lib;opencv_highgui231d.lib;opencv_video231d.lib;opencv_ml231d.lib;opencv_legacy231d.lib;opencv_imgproc231d.lib;ode_singled.lib;irrKlang.lib;Irrlicht.lib;libIrrOde.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>

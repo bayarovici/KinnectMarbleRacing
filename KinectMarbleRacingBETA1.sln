@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StuntMarbles0.50", "StuntMarblesFinal\StuntMarblesFinal.vcxproj", "{1CE5131E-B1CE-4C17-83CD-E233A8C54FC6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KinectMarbleRacing", "KinectMarbleRacing\KinectMarbleRacing.vdproj", "{D7AAD53A-1C22-4144-9FD3-CBC6B7877E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CE5131E-B1CE-4C17-83CD-E233A8C54FC6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CE5131E-B1CE-4C17-83CD-E233A8C54FC6}.Debug|Win32.Build.0 = Debug|Win32
+		{1CE5131E-B1CE-4C17-83CD-E233A8C54FC6}.Release|Win32.ActiveCfg = Release|Win32
+		{1CE5131E-B1CE-4C17-83CD-E233A8C54FC6}.Release|Win32.Build.0 = Release|Win32
+		{D7AAD53A-1C22-4144-9FD3-CBC6B7877E6F}.Debug|Win32.ActiveCfg = Debug
+		{D7AAD53A-1C22-4144-9FD3-CBC6B7877E6F}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

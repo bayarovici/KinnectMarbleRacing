@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{1CE5131E-B1CE-4C17-83CD-E233A8C54FC6}</ProjectGuid>
+    <RootNamespace>StuntMarblesFinal</RootNamespace>
+    <ProjectName>KinectMarbleRacingBETA1</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="StuntMarblesDebug.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="StuntMarblesRelease.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="project\include\CConfigFileManager.h" />
+    <ClInclude Include="project\include\CCredits.h" />
+    <ClInclude Include="project\include\CGame.h" />
+    <ClInclude Include="project\include\CHiScore.h" />
+    <ClInclude Include="project\include\CLevel.h" />
+    <ClInclude Include="project\include\CMenu.h" />
+    <ClInclude Include="project\include\CNetGame.h" />
+    <ClInclude Include="project\include\CodeSnippets\CFollowPathAnimator.h" />
+    <ClInclude Include="project\include\CodeSnippets\CIrrOdeController.h" />
+    <ClInclude Include="project\include\CodeSnippets\CIrrOdeKlangManager.h" />
+    <ClInclude Include="project\include\CodeSnippets\CIrrOdeKlangNode.h" />
+    <ClInclude Include="project\include\CodeSnippets\CManagedShadow.h" />
+    <ClInclude Include="project\include\CodeSnippets\CMarbles2Replayer.h" />
+    <ClInclude Include="project\include\CodeSnippets\CMessage.h" />
+    <ClInclude Include="project\include\CodeSnippets\CPacketDistributor.h" />
+    <ClInclude Include="project\include\CodeSnippets\CPlugBULLETBYTEin.h" />
+    <ClInclude Include="project\include\CodeSnippets\CPreviewNode.h" />
+    <ClInclude Include="project\include\CodeSnippets\CProgressBar.h" />
+    <ClInclude Include="project\include\CodeSnippets\CRaceTrackGenerator.h" />
+    <ClInclude Include="project\include\CodeSnippets\CRaceTrackLoader.h" />
+    <ClInclude Include="project\include\CodeSnippets\CRenderToTextureManager.h" />
+    <ClInclude Include="project\include\CodeSnippets\CRenderToTextureNode.h" />
+    <ClInclude Include="project\include\CodeSnippets\CReplayCam.h" />
+    <ClInclude Include="project\include\CodeSnippets\CRespawnNode.h" />
+    <ClInclude Include="project\include\CodeSnippets\CShadowManager.h" />
+    <ClInclude Include="project\include\CodeSnippets\IIrrOdeController.h" />
+    <ClInclude Include="project\include\CodeSnippets\irrCC.h" />
+    <ClInclude Include="project\include\COptions.h" />
+    <ClInclude Include="project\include\CReplay.h" />
+    <ClInclude Include="project\include\CReplaySelect.h" />
+    <ClInclude Include="project\include\CSettings.h" />
+    <ClInclude Include="project\include\CStateMachine.h" />
+    <ClInclude Include="project\include\CTournament.h" />
+    <ClInclude Include="project\include\CTournamentRace.h" />
+    <ClInclude Include="project\include\GameClasses\CGameLogic.h" />
+    <ClInclude Include="project\include\GameClasses\CGameLogicClient.h" />
+    <ClInclude Include="project\include\GameClasses\CGhostClasses.h" />
+    <ClInclude Include="project\include\GameClasses\CGhostPlayer.h" />
+    <ClInclude Include="project\include\GameClasses\CGhostRecorder.h" />
+    <ClInclude Include="project\include\GameClasses\CGuiBase.h" />
+    <ClInclude Include="project\include\GameClasses\CHiScoreList.h" />
+    <ClInclude Include="project\include\GameClasses\CLevelList.h" />
+    <ClInclude Include="project\include\GameClasses\CLevelSelectGUI.h" />
+    <ClInclude Include="project\include\GameClasses\CMarbleFollowAnimator.h" />
+    <ClInclude Include="project\include\GameClasses\CNetPlayer.h" />
+    <ClInclude Include="project\include\GameClasses\CRaceInfo.h" />
+    <ClInclude Include="project\include\GameClasses\CTournamentBase.h" />
+    <ClInclude Include="project\include\GameClasses\CTournamentInfo.h" />
+    <ClInclude Include="project\include\GameClasses\IGameLogic.h" />
+    <ClInclude Include="project\include\irrNetLite\SPacket.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CEventClientMessage.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CEventControlMessage.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CEventCpInfo.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CEventIdentify.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CEventInit.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CEventPlayer.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CEventServerMessage.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CIrrOdeMessageFactory.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CIrrOdeNetAdapter.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CIrrOdeNetController.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CIrrOdeRePlayer.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CMarbleMessageFactory.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CMarbles2Recorder.h" />
+    <ClInclude Include="project\include\IrrOdeNet\CMarbles2WorldObserver.h" />
+    <ClInclude Include="project\include\IrrOdeNet\IMessageFactory.h" />
+    <ClInclude Include="project\include\IrrOdeNet\IPacketHandler.h" />
+    <ClInclude Include="project\include\IrrOdeNet\NetMessages.h" />
+    <ClInclude Include="project\include\IrrOdeNet\WorldObserverMessages.h" />
+    <ClInclude Include="project\include\IState.h" />
+    <ClInclude Include="project\include\Kinect\KinectFramework.h" />
+    <ClInclude Include="project\include\Kinect\KinectGestures.h" />
+    <ClInclude Include="project\include\Kinect\KinectJoystickGUI.h" />
+    <ClInclude Include="project\source\irrNetLite\CEncryption.h" />
+    <ClInclude Include="project\source\irrNetLite\CNetManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="KFKneeController.cpp" />
+    <ClCompile Include="KFLeanController2.cpp" />
+    <ClCompile Include="KFPendulumController.cpp" />
+    <ClCompile Include="KFTurnController.cpp" />
+    <ClCompile Include="project\source\CConfigFileManager.cpp" />
+    <ClCompile Include="project\source\CCredits.cpp" />
+    <ClCompile Include="project\source\CGame.cpp" />
+    <ClCompile Include="project\source\CHiScore.cpp" />
+    <ClCompile Include="project\source\CLevel.cpp" />
+    <ClCompile Include="project\source\CMenu.cpp" />
+    <ClCompile Include="project\source\CNetGame.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CFollowPathAnimator.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CIrrOdeController.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CIrrOdeKlangManager.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CIrrOdeKlangNode.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CManagedShadow.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CMarbles2Replayer.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CMessage.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CPlugBULLETBYTEin.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CPreviewNode.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CProgressBar.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CRaceTrackGenerator.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CRaceTrackLoader.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CRenderToTextureManager.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CRenderToTextureNode.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CReplayCam.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CRespawnNode.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\CShadowManager.cpp" />
+    <ClCompile Include="project\source\CodeSnippets\irrCC.cpp" />
+    <ClCompile Include="project\source\COptions.cpp" />
+    <ClCompile Include="project\source\CReplay.cpp" />
+    <ClCompile Include="project\source\CReplaySelect.cpp" />
+    <ClCompile Include="project\source\CSettings.cpp" />
+    <ClCompile Include="project\source\CStateMachine.cpp" />
+    <ClCompile Include="project\source\CTournament.cpp" />
+    <ClCompile Include="project\source\CTournamentRace.cpp" />
+    <ClCompile Include="project\source\GameClasses\CGameLogic.cpp" />
+    <ClCompile Include="project\source\GameClasses\CGameLogicClient.cpp" />
+    <ClCompile Include="project\source\GameClasses\CGhostPlayer.cpp" />
+    <ClCompile Include="project\source\GameClasses\CGhostRecorder.cpp" />
+    <ClCompile Include="project\source\GameClasses\CHiScoreList.cpp" />
+    <ClCompile Include="project\source\GameClasses\CLevelList.cpp" />
+    <ClCompile Include="project\source\GameClasses\CLevelSelectGUI.cpp" />
+    <ClCompile Include="project\source\GameClasses\CMarbleFollowAnimator.cpp" />
+    <ClCompile Include="project\source\GameClasses\CPlayer.cpp" />
+    <ClCompile Include="project\source\GameClasses\CRaceInfo.cpp" />
+    <ClCompile Include="project\source\GameClasses\CTournamentBase.cpp" />
+    <ClCompile Include="project\source\GameClasses\CTournamentInfo.cpp" />
+    <ClCompile Include="project\source\irrNetLite\CNetManager.cpp" />
+    <ClCompile Include="project\source\irrNetLite\SPacket.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CEventClientMessage.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CEventControlMessage.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CEventCpInfo.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CEventIdentify.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CEventInit.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CEventPlayer.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CEventServerMessage.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CIrrOdeMessageFactory.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CIrrOdeNetAdapter.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CIrrOdeNetController.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CIrrOdeRePlayer.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CMarbleMessageFactory.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CMarbles2Recorder.cpp" />
+    <ClCompile Include="project\source\IrrOdeNet\CMarbles2WorldObserver.cpp" />
+    <ClCompile Include="project\source\Kinect\KFCVWrapper.cpp" />
+    <ClCompile Include="project\source\Kinect\KFBaseController.cpp" />
+    <ClCompile Include="project\source\Kinect\KFLeanController.cpp" />
+    <ClCompile Include="project\source\Kinect\KFLocationController.cpp" />
+    <ClCompile Include="project\source\Kinect\KinectGestures.cpp" />
+    <ClCompile Include="project\source\Kinect\KinectJoystickGUI.cpp" />
+    <ClCompile Include="project\source\main.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

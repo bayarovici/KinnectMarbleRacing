@@ -1,0 +1,6088 @@
+# depslib dependency file v1.0
+1279139845 source:d:\mystuff\projects\marbles2\project\source\cconfigfilemanager.cpp
+	<CConfigFileManager.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\cconfigfilemanager.h
+	<irrlicht.h>
+
+1266152760 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1267117687 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1266152700 d:\mystuff\projects\libs\irrlicht-1.7.1\include\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\vector3d.h
+	"irrMath.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ireferencecounted.h
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\position2d.h
+	"vector2d.h"
+
+1266152700 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\heapsort.h
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ematerialtypes.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ematerialflags.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\svertexindex.h
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ehardwarebufferflags.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\eprimitivetypes.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\path.h
+	"irrString.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ecullingtypes.h
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\edebugscenetypes.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\edriverfeatures.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\edrivertypes.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\eguialignment.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\eguielementtypes.h
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\emeshwriterenums.h
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\emessageboxflags.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\escenenodeanimatortypes.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\escenenodetypes.h
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\eterrainelements.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\fast_atof.h
+	"irrMath.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\sexposedvideodata.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ieventreceiver.h
+	"ILogger.h"
+	"position2d.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ilogger.h
+	"IReferenceCounted.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\keycodes.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\eattributes.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ibonescenenode.h
+	"ISceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1266152700 d:\mystuff\projects\libs\irrlicht-1.7.1\include\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\eshadertypes.h
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguibutton.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguicheckbox.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguicombobox.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguicontextmenu.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguifontbitmap.h
+	"IGUIFont.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguiimage.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguimeshviewer.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguiscrollbar.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguispinbox.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguitoolbar.h
+	"IGUIElement.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\slight.h
+	"SColor.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imeshscenenode.h
+	"ISceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iosoperator.h
+	"IReferenceCounted.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\edevicetypes.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\itimer.h
+	"IReferenceCounted.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\sceneparameters.h
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\itextscenenode.h
+	"ISceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\skeymap.h
+	"Keycodes.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1264953780 d:\mystuff\projects\libs\irrlicht-1.7.1\include\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1279141214 source:d:\mystuff\projects\marbles2\project\source\ccredits.cpp
+	<CCredits.h>
+	<CStateMachine.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\ccredits.h
+	<IState.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\istate.h
+	<irrlicht.h>
+	<irrKlang.h>
+
+1266394200 d:\mystuff\projects\libs\irrklang-1.3.0\include\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_irrklangtypes.h
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1233817980 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1233816540 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1266392580 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_esoundoutputdrivers.h
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_esoundengineoptions.h
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_estreammodes.h
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1266394200 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1266394020 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1230623280 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1230626400 d:\mystuff\projects\libs\irrklang-1.3.0\include\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1279139849 d:\mystuff\projects\marbles2\project\include\cstatemachine.h
+	<irrlicht.h>
+	<IState.h>
+
+1290259529 source:d:\mystuff\projects\marbles2\project\source\cgame.cpp
+	<time.h>
+	<CGame.h>
+	<CStateMachine.h>
+	<CShadowManager.h>
+	<GameClasses/CHiScoreList.h>
+	<CConfigFileManager.h>
+	<CIrrOdeKlangManager.h>
+	<CIrrOdeKlangNode.h>
+	<CRenderToTextureManager.h>
+	<irrKlang.h>
+	<COptions.h>
+	<CRespawnNode.h>
+	<CReplayCam.h>
+	<irrCC.h>
+	<CProgressBar.h>
+	<IrrOdeNet/CMarbles2Recorder.h>
+	<GameClasses/CMarbleFollowAnimator.h>
+	<GameClasses/CGhostPlayer.h>
+	<GameClasses/IGameLogic.h>
+	<GameClasses/CRaceInfo.h>
+
+1290259574 d:\mystuff\projects\marbles2\project\include\cgame.h
+	<IState.h>
+	<irrCC.h>
+	<IrrOde.h>
+	<CShadowManager.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\irrcc.h
+	<irrlicht.h>
+	<CConfigFileManager.h>
+
+1289660781 d:\mystuff\projects\irrode\include\irrode\irrode.h
+	<CIrrOdeSurfaceParameters.h>
+	<CIrrOdeSpace.h>
+	<CIrrOdeWorld.h>
+	<IIrrOdeDevice.h>
+	<CIrrOdeManager.h>
+	<CIrrOdeSceneNodeFactory.h>
+	<geom/CIrrOdeGeomBox.h>
+	<geom/CIrrOdeGeomRay.h>
+	<geom/CIrrOdeGeomPlane.h>
+	<geom/CIrrOdeGeomSphere.h>
+	<geom/CIrrOdeGeomTrimesh.h>
+	<geom/CIrrOdeGeomCapsule.h>
+	<geom/CIrrOdeGeomCylinder.h>
+	<event/CIrrOdeEventRayHit.h>
+	<geom/CIrrOdeGeomHeightfield.h>
+	<event/IIrrOdeEvent.h>
+	<event/IIrrOdeEventListener.h>
+	<event/CIrrOdeEventStep.h>
+	<event/CIrrOdeEventInit.h>
+	<event/IIrrOdeEventQueue.h>
+	<event/CIrrOdeEventQueue.h>
+	<event/CIrrOdeEventClose.h>
+	<event/CIrrOdeEventRayHit.h>
+	<event/CIrrOdeEventProgress.h>
+	<event/CIrrOdeEventIdentify.h>
+	<event/CIrrOdeEventLoadScene.h>
+	<event/CIrrOdeEventBodyMoved.h>
+	<event/CIrrOdeEventBeforeStep.h>
+	<event/CIrrOdeEventNodeCloned.h>
+	<event/CIrrOdeEventNodeRemoved.h>
+	<event/CIrrOdeEventBodyCreated.h>
+	<event/CIrrOdeEventBodyRemoved.h>
+	<event/CIrrOdeEventActivationChanged.h>
+	<joints/CIrrOdeJoint.h>
+	<joints/CIrrOdeJointFixed.h>
+	<joints/CIrrOdeJointHinge.h>
+	<joints/CIrrOdeJointHinge2.h>
+	<joints/CIrrOdeJointSlider.h>
+	<joints/CIrrOdeJointPiston.h>
+	<joints/CIrrOdeJointBallSocket.h>
+	<joints/CIrrOdeJointUniversal.h>
+	<IIrrOdeContactParameters.h>
+	<motors/CIrrOdeMotor.h>
+	<motors/CIrrOdeServo.h>
+	<motors/IIrrOdeStepMotor.h>
+	<motors/CIrrOdeImpulseMotor.h>
+	<motors/CIrrOdeAeroDrag.h>
+	<motors/CIrrOdeTorqueMotor.h>
+	<observer/CIrrOdeWorldObserver.h>
+	<observer/CIrrOdeRecorder.h>
+
+1295691627 d:\mystuff\projects\irrode\include\irrode\cirrodesurfaceparameters.h
+	<irrlicht.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\cirrodespace.h
+	<CIrrOdeSceneNode.h>
+
+1291470520 d:\mystuff\projects\irrode\include\irrode\cirrodescenenode.h
+	<irrlicht.h>
+
+1283371176 d:\mystuff\projects\irrode\include\irrode\cirrodeworld.h
+	<CIrrOdeDampable.h>
+	<IIrrOdeContactParameters.h>
+
+1277057542 d:\mystuff\projects\irrode\include\irrode\cirrodedampable.h
+	<CIrrOdeSceneNode.h>
+	<limits>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\iirrodecontactparameters.h
+	<CIrrOdeSurfaceParameters.h>
+
+1287606801 d:\mystuff\projects\irrode\include\irrode\iirrodedevice.h
+	<irrlicht.h>
+	<CIrrOdeWorld.h>
+	<IIrrOdeContactParameters.h>
+	<geom/CIrrOdeGeomRay.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\geom\cirrodegeomray.h
+	<irrlicht.h>
+	<geom/CIrrOdeGeom.h>
+
+1280050951 d:\mystuff\projects\irrode\include\irrode\geom\cirrodegeom.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeSurfaceParameters.h>
+
+1290869513 d:\mystuff\projects\irrode\include\irrode\cirrodemanager.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+	<observer/CIrrOdeEventFactory.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\cirrodescenenodefactory.h
+	<irrlicht.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\geom\cirrodegeombox.h
+	<geom/CIrrOdeGeom.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\geom\cirrodegeomplane.h
+	<geom/CIrrOdeGeom.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\geom\cirrodegeomsphere.h
+	<geom/CIrrOdeGeom.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\geom\cirrodegeomtrimesh.h
+	<geom/CIrrOdeGeom.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\geom\cirrodegeomcapsule.h
+	<geom/CIrrOdeGeom.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\geom\cirrodegeomcylinder.h
+	<geom/CIrrOdeGeom.h>
+
+1283607975 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventrayhit.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeomRay.h>
+
+1289656871 d:\mystuff\projects\irrode\include\irrode\event\iirrodeevent.h
+	<irrlicht.h>
+	<CSerializer.h>
+
+1290938547 d:\mystuff\projects\irrode\include\irrode\cserializer.h
+	<irrlicht.h>
+
+1291544690 d:\mystuff\projects\irrode\include\irrode\cirrodebody.h
+	<CIrrOdeDampable.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\geom\cirrodegeomheightfield.h
+	<geom/CIrrOdeGeom.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\event\iirrodeeventlistener.h
+	<event/IIrrOdeEvent.h>
+
+1283608056 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventstep.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1283607645 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventinit.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1283607660 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventclose.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1283607682 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventprogress.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1283670541 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventbodymoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1283608023 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventbeforestep.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1283607576 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventbodycreated.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1283670541 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventbodyremoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1283607600 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventactivationchanged.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1287306653 d:\mystuff\projects\irrode\include\irrode\joints\cirrodejoint.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeBody.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\joints\cirrodejointfixed.h
+	<joints/CIrrOdeJoint.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\joints\cirrodejointhinge.h
+	<joints/CIrrOdeJoint.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\joints\cirrodejointhinge2.h
+	<joints/CIrrOdeJoint.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\joints\cirrodejointslider.h
+	<joints/CIrrOdeJoint.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\joints\cirrodejointpiston.h
+	<joints/CIrrOdeJoint.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\joints\cirrodejointballsocket.h
+	<joints/CIrrOdeJoint.h>
+
+1275406500 d:\mystuff\projects\irrode\include\irrode\joints\cirrodejointuniversal.h
+	<irrlicht.h>
+	<joints/CIrrOdeJoint.h>
+
+1291544080 d:\mystuff\projects\irrode\include\irrode\motors\cirrodemotor.h
+	<motors/IIrrOdeMotor.h>
+
+1291544147 d:\mystuff\projects\irrode\include\irrode\motors\cirrodeservo.h
+	<motors/IIrrOdeMotor.h>
+
+1291549093 d:\mystuff\projects\irrode\include\irrode\motors\iirrodestepmotor.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeManager.h>
+	<CIrrOdeBody.h>
+	<CIrrOdeWorld.h>
+
+1280241359 d:\mystuff\projects\irrode\include\irrode\motors\cirrodeimpulsemotor.h
+	<motors/IIrrOdeStepMotor.h>
+
+1280241498 d:\mystuff\projects\irrode\include\irrode\motors\cirrodeaerodrag.h
+	<motors/IIrrOdeStepMotor.h>
+
+1291314651 d:\mystuff\projects\irrode\include\irrode\motors\cirrodetorquemotor.h
+	<motors/IIrrOdeStepMotor.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\cshadowmanager.h
+	<irrlicht.h>
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\chiscorelist.h
+	<irrlicht.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\cirrodeklangmanager.h
+	<irrlicht.h>
+	<IrrOde.h>
+	<irrklang.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\cirrodeklangnode.h
+	<irrlicht.h>
+	<irrklang.h>
+	<IrrOde.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\crendertotexturemanager.h
+	<event/IIrrOdeEventListener.h>
+	<CReplayCam.h>
+	<irrlicht.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\creplaycam.h
+	<irrlicht.h>
+
+1283371175 d:\mystuff\projects\marbles2\project\include\coptions.h
+	<IState.h>
+	<CConfigFileManager.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\crespawnnode.h
+	<irrlicht.h>
+
+1285843574 d:\mystuff\projects\marbles2\project\include\irrodenet\cirroderecorder.h
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<event/IIrrOdeEvent.h>
+	<CMessage.h>
+	<irrlicht.h>
+
+1281297046 d:\mystuff\projects\marbles2\project\include\irrodenet\cirrodeworldobserver.h
+	<IrrOde.h>
+	<CMessage.h>
+	<irrlicht.h>
+	<CSerializer.h>
+
+1290259514 d:\mystuff\projects\marbles2\project\include\codesnippets\cmessage.h
+	<irrlicht.h>
+	<CSerializer.h>
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\cmarblefollowanimator.h
+	<irrlicht.h>
+	<irrklang.h>
+	<IrrOde.h>
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\cghostplayer.h
+	<irrlicht.h>
+	<irrklang.h>
+	<event/IIrrOdeEventListener.h>
+
+1281453398 d:\mystuff\projects\marbles2\project\include\gameclasses\igamelogic.h
+	<irrlicht.h>
+	<irrOde.h>
+
+1279139846 d:\mystuff\projects\marbles2\project\include\gameclasses\craceinfo.h
+	<irrlicht.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\chiscore.cpp
+	<CHiScore.h>
+	<CStateMachine.h>
+	<CFollowPathAnimator.h>
+	<IrrOde.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CHiScoreList.h>
+	<GameClasses/CLevelSelectGUI.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\chiscore.h
+	<IState.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\cfollowpathanimator.h
+	<irrlicht.h>
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\clevellist.h
+	<irrlicht.h>
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\clevelselectgui.h
+	<irrlicht.h>
+	<irrklang.h>
+	<GameClasses/CLevelList.h>
+	<CFollowPathAnimator.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\clevel.cpp
+	<CLevel.h>
+	<CFollowPathAnimator.h>
+	<IrrOde.h>
+	<CStateMachine.h>
+	<CIrrOdeKlangManager.h>
+	<COptions.h>
+	<CShadowManager.h>
+	<GameClasses/CLevelSelectGUI.h>
+	<GameClasses/CHiScoreList.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CGameLogic.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CGhostPlayer.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\clevel.h
+	<IState.h>
+	<CConfigFileManager.h>
+
+1283371174 d:\mystuff\projects\marbles2\project\include\gameclasses\cgamelogic.h
+	<irrlicht.h>
+	<irrklang.h>
+	<GameClasses/IGameLogic.h>
+	<IrrOde.h>
+	<CSerializer.h>
+	<IrrOdeNet/IPacketHandler.h>
+	<event/IIrrOdeEventListener.h>
+
+1279139848 d:\mystuff\projects\marbles2\project\include\irrodenet\ipackethandler.h
+	<CSerializer.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\cmenu.cpp
+	<CMenu.h>
+	<CStateMachine.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\cmenu.h
+	<IState.h>
+
+1283605725 source:d:\mystuff\projects\marbles2\project\source\cnetgame.cpp
+	<irrlicht.h>
+	<CNetGame.h>
+	<CStateMachine.h>
+	<CSerializer.h>
+	<CTournamentRace.h>
+	<COptions.h>
+	<CGame.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/NetMessages.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CGameLogic.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CNetPlayer.h>
+	<GameClasses/CTournamentInfo.h>
+	<GameClasses/CGameLogicClient.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\cnetgame.h
+	<GameClasses/CTournamentBase.h>
+	<IrrOdeNet/IPacketHandler.h>
+	<CConfigFileManager.h>
+	<CSerializer.h>
+	<event/IIrrOdeEventListener.h>
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\ctournamentbase.h
+	<IState.h>
+	<CConfigFileManager.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\ctournamentrace.h
+	<IState.h>
+	<CConfigFileManager.h>
+	<IrrOdeNet/IPacketHandler.h>
+	<CSerializer.h>
+	<event/IIrrOdeEventListener.h>
+
+1285847174 d:\mystuff\projects\marbles2\project\include\irrodenet\cirrodenetadapter.h
+	<irrlicht.h>
+	<INetManager.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<event/IIrrOdeEvent.h>
+	<CPacketDistributor.h>
+
+1279139846 d:\mystuff\projects\marbles2\project\include\irrnetlite\inetmanager.h
+	<SPacket.h>
+
+1279139846 d:\mystuff\projects\marbles2\project\include\irrnetlite\spacket.h
+	<irrlicht.h>
+	"NoIrrlicht/NoIrrlicht.h"
+	<string>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\cpacketdistributor.h
+	<IrrOdeNet/IPacketHandler.h>
+	<CSerializer.h>
+
+1283609027 d:\mystuff\projects\marbles2\project\include\irrodenet\ceventservermessage.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1279139848 d:\mystuff\projects\marbles2\project\include\irrodenet\worldobservermessages.h
+	<event/IIrrOdeEvent.h>
+
+1283608993 d:\mystuff\projects\marbles2\project\include\irrodenet\ceventclientmessage.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1279139848 d:\mystuff\projects\marbles2\project\include\irrodenet\netmessages.h
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\cnetplayer.h
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\ctournamentinfo.h
+	<irrlicht.h>
+
+1281696518 d:\mystuff\projects\marbles2\project\include\gameclasses\cgamelogicclient.h
+	<irrlicht.h>
+	<irrklang.h>
+	<IrrOdeNet/IPacketHandler.h>
+	<GameClasses/IGameLogic.h>
+	<IrrOde.h>
+	<CSerializer.h>
+
+1283371174 source:d:\mystuff\projects\marbles2\project\source\coptions.cpp
+	<COptions.h>
+	<CGame.h>
+	<CSettings.h>
+	<CStateMachine.h>
+	<CRenderToTextureManager.h>
+
+1285847174 d:\mystuff\projects\marbles2\project\include\csettings.h
+	<irrlicht.h>
+	<CConfigFileManager.h>
+
+1283605725 source:d:\mystuff\projects\marbles2\project\source\creplay.cpp
+	<CReplay.h>
+	<CReplaySelect.h>
+	<CStateMachine.h>
+	<CMarbles2Replayer.h>
+	<CIrrOdeKlangManager.h>
+	<CReplayCam.h>
+	<irrOde.h>
+	<GameClasses/CMarbleFollowAnimator.h>
+
+1279353189 d:\mystuff\projects\marbles2\project\include\creplay.h
+	<IState.h>
+	<irrklang.h>
+	<CConfigFileManager.h>
+	<IrrOdeNet/CIrrOdeRePlayer.h>
+
+1279353188 d:\mystuff\projects\marbles2\project\include\irrodenet\cirrodereplayer.h
+	<CSerializer.h>
+	<CShadowManager.h>
+	<irrlicht.h>
+	<irrklang.h>
+	<event/IIrrOdeEvent.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\creplayselect.h
+	<IState.h>
+	<irrklang.h>
+	<CConfigFileManager.h>
+	<IrrOdeNet/CIrrOdeRePlayer.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\cmarbles2replayer.h
+	<IrrOdeNet/CIrrOdeRePlayer.h>
+	<event/IIrrOdeEventListener.h>
+
+1281297045 source:d:\mystuff\projects\marbles2\project\source\creplayselect.cpp
+	<CReplaySelect.h>
+	<CStateMachine.h>
+	<GameClasses/CLevelList.h>
+	<CMessage.h>
+	<CGame.h>
+	<IrrOdeNet/CEventPlayer.h>
+	<IrrOdeNet/CEventIdentify.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1283611067 d:\mystuff\projects\marbles2\project\include\irrodenet\ceventplayer.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1290260618 d:\mystuff\projects\marbles2\project\include\irrodenet\ceventidentify.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1285847173 source:d:\mystuff\projects\marbles2\project\source\csettings.cpp
+	<CSettings.h>
+	<math.h>
+	<CShadowManager.h>
+
+1300138699 source:d:\mystuff\projects\marbles2\project\source\cstatemachine.cpp
+	<CStateMachine.h>
+	<CSettings.h>
+	<COptions.h>
+	<CHiScore.h>
+	<CCredits.h>
+	<CMenu.h>
+	<CLevel.h>
+	<CGame.h>
+	<IrrOde.h>
+	<CIrrOdeKlangNode.h>
+	<CIrrOdeKlangManager.h>
+	<CTournamentRace.h>
+	<CTournament.h>
+	<CReplaySelect.h>
+	<CReplay.h>
+	<CPlugBULLETBYTEin.h>
+	<CNetGame.h>
+	<CRenderToTextureManager.h>
+	<CRaceTrackGenerator.h>
+	<CRaceTrackLoader.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<IrrOdeNet/CIrrOdeMessageFactory.h>
+	<IrrOdeNet/CMarbleMessageFactory.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\ctournament.h
+	<IState.h>
+	<CConfigFileManager.h>
+	<GameClasses/CTournamentBase.h>
+
+1279139848 d:\mystuff\projects\marbles2\project\include\codesnippets\cplugbulletbytein.h
+	<irrlicht.h>
+
+1294787276 d:\mystuff\projects\marbles2\project\include\irrodenet\cirrodemessagefactory.h
+	<IrrOdeNet/IMessageFactory.h>
+
+1294787276 d:\mystuff\projects\marbles2\project\include\irrodenet\imessagefactory.h
+	<event/IIrrOdeEvent.h>
+
+1279139848 d:\mystuff\projects\marbles2\project\include\irrodenet\cmarblemessagefactory.h
+	<IrrOdeNet/IMessageFactory.h>
+	<CSerializer.h>
+
+1281795596 source:d:\mystuff\projects\marbles2\project\source\ctournament.cpp
+	<CTournament.h>
+	<CStateMachine.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CTournamentInfo.h>
+	<CTournamentRace.h>
+	<COptions.h>
+
+1283605725 source:d:\mystuff\projects\marbles2\project\source\ctournamentrace.cpp
+	<CIrrOdeKlangManager.h>
+	<CStateMachine.h>
+	<CSerializer.h>
+	<CGame.h>
+	<COptions.h>
+	<CTournamentRace.h>
+	<CIrrOdeManager.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/NetMessages.h>
+	<GameClasses/CNetPlayer.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CGameLogic.h>
+	<GameClasses/CTournamentInfo.h>
+	<GameClasses/CGameLogicClient.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cfollowpathanimator.cpp
+	<CFollowPathAnimator.h>
+	<CPreviewNode.h>
+
+1279139848 d:\mystuff\projects\marbles2\project\include\codesnippets\cpreviewnode.h
+	<irrlicht.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cirrodecontroller.cpp
+	<CIrrOdeController.h>
+
+1288428875 d:\mystuff\projects\marbles2\project\include\codesnippets\cirrodecontroller.h
+	<IIrrOdeController.h>
+
+1288428891 d:\mystuff\projects\marbles2\project\include\codesnippets\iirrodecontroller.h
+	<irrlicht.h>
+	<CIrrOdeBody.h>
+
+1283605725 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cirrodeklangmanager.cpp
+	<irrlicht.h>
+	<CIrrOdeKlangManager.h>
+	<CIrrOdeKlangNode.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cirrodeklangnode.cpp
+	<irrlicht.h>
+	<CIrrOdeKlangNode.h>
+	<CIrrOdeKlangManager.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cmanagedshadow.cpp
+	<irrlicht.h>
+	<CManagedShadow.h>
+	<CShadowManager.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\cmanagedshadow.h
+	<irrlicht.h>
+
+1279139844 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cmarbles2replayer.cpp
+	<CIrrOdeKlangManager.h>
+	<CMarbles2RePlayer.h>
+	<CMessage.h>
+	<CGame.h>
+	<IrrOdeNet/CEventPlayer.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/CEventInit.h>
+
+1283611201 d:\mystuff\projects\marbles2\project\include\irrodenet\ceventcpinfo.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1283611171 d:\mystuff\projects\marbles2\project\include\irrodenet\ceventinit.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cmessage.cpp
+	<CSerializer.h>
+	<CMessage.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cplugbulletbytein.cpp
+	<CPlugBULLETBYTEin.h>
+	<CManagedShadow.h>
+	<CPreviewNode.h>
+	<CReplayCam.h>
+	<CRespawnNode.h>
+	<CRenderToTextureNode.h>
+
+1279139849 d:\mystuff\projects\marbles2\project\include\codesnippets\crendertotexturenode.h
+	<irrlicht.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cpreviewnode.cpp
+	<irrlicht.h>
+	<CPreviewNode.h>
+	<CPlugBULLETBYTEin.h>
+	<windows.h>
+
+1283605725 source:d:\mystuff\projects\marbles2\project\source\codesnippets\crendertotexturemanager.cpp
+	<CRenderToTextureManager.h>
+	<CRenderToTextureNode.h>
+	<CIrrOdeManager.h>
+	<event/CIrrOdeEventStep.h>
+	<event/IIrrOdeEventQueue.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\crendertotexturenode.cpp
+	<irrlicht.h>
+	<CRenderToTextureNode.h>
+	<CPlugBULLETBYTEin.h>
+	<CRenderToTextureManager.h>
+	<windows.h>
+
+1279139844 source:d:\mystuff\projects\marbles2\project\source\codesnippets\creplaycam.cpp
+	<irrlicht.h>
+	<CReplayCam.h>
+	<windows.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\crespawnnode.cpp
+	<irrlicht.h>
+	<CRespawnNode.h>
+	<windows.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cshadowmanager.cpp
+	<irrlicht.h>
+	<CShadowManager.h>
+	<CManagedShadow.h>
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\codesnippets\irrcc.cpp
+	<irrCC.h>
+
+1302207498 source:d:\mystuff\projects\marbles2\project\source\gameclasses\cgamelogic.cpp
+	<GameClasses/CMarbleFollowAnimator.h>
+	<GameClasses/CNetPlayer.h>
+	<GameClasses/CGameLogic.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CPlayer.h>
+	<GameClasses/CGhostRecorder.h>
+	<IrrOdeNet/CEventInit.h>
+	<IrrOdeNet/NetMessages.h>
+	<IrrOdeNet/CEventPlayer.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/CMarbles2Recorder.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<CIrrOdeController.h>
+	<CSerializer.h>
+	<CRespawnNode.h>
+	<CMessage.h>
+	<COptions.h>
+	<CGame.h>
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\cplayer.h
+	<irrlicht.h>
+	<irrklang.h>
+	<irrOde.h>
+
+1285847173 d:\mystuff\projects\marbles2\project\include\gameclasses\cghostrecorder.h
+	<IrrOde.h>
+	<irrlicht.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+
+1290259539 source:d:\mystuff\projects\marbles2\project\source\gameclasses\cgamelogicclient.cpp
+	<GameClasses/CMarbleFollowAnimator.h>
+	<GameClasses/CGameLogicClient.h>
+	<GameClasses/CNetPlayer.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CPlayer.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<IrrOdeNet/CIrrOdeNetController.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/CMarbles2Recorder.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/NetMessages.h>
+	<IrrOdeNet/CEventInit.h>
+	<event/CIrrOdeEventStep.h>
+	<CRenderToTextureManager.h>
+	<CIrrOdeKlangManager.h>
+	<CSerializer.h>
+	<CRespawnNode.h>
+	<CMessage.h>
+	<COptions.h>
+	<CGame.h>
+
+1279139848 d:\mystuff\projects\marbles2\project\include\irrodenet\cirrodenetcontroller.h
+	<IIrrOdeController.h>
+	<CSerializer.h>
+
+1283605723 source:d:\mystuff\projects\marbles2\project\source\gameclasses\cghostplayer.cpp
+	<GameClasses/CGhostPlayer.h>
+	<GameClasses/CGhostClasses.h>
+	<CIrrOdeManager.h>
+	<event/IIrrOdeEventQueue.h>
+
+1279139847 d:\mystuff\projects\marbles2\project\include\gameclasses\cghostclasses.h
+	<irrlicht.h>
+	<CSerializer.h>
+
+1285847172 source:d:\mystuff\projects\marbles2\project\source\gameclasses\cghostrecorder.cpp
+	<GameClasses/CGhostRecorder.h>
+	<GameClasses/CGhostClasses.h>
+	<CGame.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1279139843 source:d:\mystuff\projects\marbles2\project\source\gameclasses\chiscorelist.cpp
+	<GameClasses/CHiScoreList.h>
+
+1279139843 source:d:\mystuff\projects\marbles2\project\source\gameclasses\clevellist.cpp
+	<GameClasses/CLevelList.h>
+
+1300619033 source:d:\mystuff\projects\marbles2\project\source\gameclasses\clevelselectgui.cpp
+	<GameClasses/CLevelSelectGUI.h>
+	<IrrOde.h>
+	<CIrrOdeKlangManager.h>
+	<CShadowManager.h>
+
+1279139843 source:d:\mystuff\projects\marbles2\project\source\gameclasses\cmarblefollowanimator.cpp
+	<GameClasses/CMarbleFollowAnimator.h>
+
+1279139843 source:d:\mystuff\projects\marbles2\project\source\gameclasses\cplayer.cpp
+	<GameClasses/CPlayer.h>
+	<CGame.h>
+	<CIrrOdeKlangManager.h>
+	<CIrrOdeKlangNode.h>
+	<GameClasses/CMarbleFollowAnimator.h>
+	<GameClasses/IGameLogic.h>
+	<CRenderToTextureManager.h>
+	<IIrrOdeController.h>
+	<IrrODE.h>
+
+1279139843 source:d:\mystuff\projects\marbles2\project\source\gameclasses\craceinfo.cpp
+	<GameClasses/CRaceInfo.h>
+
+1279139843 source:d:\mystuff\projects\marbles2\project\source\gameclasses\ctournamentbase.cpp
+	<CStateMachine.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CTournamentInfo.h>
+	<GameClasses/CTournamentBase.h>
+	<CTournamentRace.h>
+	<COptions.h>
+
+1279139843 source:d:\mystuff\projects\marbles2\project\source\gameclasses\ctournamentinfo.cpp
+	<GameClasses/CTournamentInfo.h>
+	<GameClasses/CRaceInfo.h>
+
+1283608966 source:d:\mystuff\projects\marbles2\project\source\irrodenet\ceventclientmessage.cpp
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/NetMessages.h>
+
+1283611469 source:d:\mystuff\projects\marbles2\project\source\irrodenet\ceventcontrolmessage.cpp
+	<IrrOdeNet/CEventControlMessage.h>
+	<IrrOdeNet/NetMessages.h>
+
+1283611354 d:\mystuff\projects\marbles2\project\include\irrodenet\ceventcontrolmessage.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1283611284 source:d:\mystuff\projects\marbles2\project\source\irrodenet\ceventcpinfo.cpp
+	<IrrOdeNet/CEventCpInfo.h>
+
+1283611574 source:d:\mystuff\projects\marbles2\project\source\irrodenet\ceventidentify.cpp
+	<IrrOdeNet/CEventIdentify.h>
+
+1283611168 source:d:\mystuff\projects\marbles2\project\source\irrodenet\ceventinit.cpp
+	<IrrOdeNet/CEventInit.h>
+
+1283611066 source:d:\mystuff\projects\marbles2\project\source\irrodenet\ceventplayer.cpp
+	<IrrOdeNet/CEventPlayer.h>
+
+1283609129 source:d:\mystuff\projects\marbles2\project\source\irrodenet\ceventservermessage.cpp
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/NetMessages.h>
+
+1281297045 source:d:\mystuff\projects\marbles2\project\source\irrodenet\cirrodemessagefactory.cpp
+	<IrrOdeNet/CIrrOdeMessageFactory.h>
+	<event/CIrrOdeEventInit.h>
+	<event/CIrrOdeEventClose.h>
+	<event/CIrrOdeEventBeforeStep.h>
+	<event/CIrrOdeEventBodyCreated.h>
+	<event/CIrrOdeEventBodyRemoved.h>
+	<event/CIrrOdeEventBodyMoved.h>
+	<event/CIrrOdeEventLoadScene.h>
+	<event/CIrrOdeEventActivationChanged.h>
+	<event/CIrrOdeEventRayHit.h>
+	<event/CIrrOdeEventStep.h>
+
+1285847172 source:d:\mystuff\projects\marbles2\project\source\irrodenet\cirrodenetadapter.cpp
+	<IrrOdeNet/CIrrOdeMessageFactory.h>
+	<IrrOdeNet/CEventControlMessage.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/NetMessages.h>
+	<CIrrOdeKlangManager.h>
+	<CIrrOdeManager.h>
+	<CSerializer.h>
+	<irrklang.h>
+	<event/IIrrOdeEvent.h>
+	<event/CIrrOdeEventBodyRemoved.h>
+
+1279139844 source:d:\mystuff\projects\marbles2\project\source\irrodenet\cirrodenetcontroller.cpp
+	<IrrOdeNet/CIrrOdeNetController.h>
+	<IrrOdeNet/CEventControlMessage.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/NetMessages.h>
+
+1283605724 source:d:\mystuff\projects\marbles2\project\source\irrodenet\cirrodereplayer.cpp
+	<IrrOdeNet/CIrrOdeRePlayer.h>
+	<IrrOdeNet/CEventIdentify.h>
+	<IrrOdeNet/CIrrOdeMessageFactory.h>
+	<irrOde.h>
+	<CMessage.h>
+	<CShadowManager.h>
+	<CIrrOdeKlangManager.h>
+	<CRenderToTextureManager.h>
+
+1279139844 source:d:\mystuff\projects\marbles2\project\source\irrodenet\cirroderecorder.cpp
+	<IrrOdeNet/CIrrOdeRecorder.h>
+
+1283605724 source:d:\mystuff\projects\marbles2\project\source\irrodenet\cirrodeworldobserver.cpp
+	<IrrOdeNet/CIrrOdeWorldObserver.h>
+	<IrrOdeNet/CEventIdentify.h>
+
+1279353188 source:d:\mystuff\projects\marbles2\project\source\irrodenet\cmarblemessagefactory.cpp
+	<IrrOdeNet/CMarbleMessageFactory.h>
+	<IrrOdeNet/CEventControlMessage.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CEventIdentify.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/CEventPlayer.h>
+	<IrrOdeNet/CEventInit.h>
+
+1279139842 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\cnetmanager.cpp
+	"CNetManager.h"
+	<iostream>
+
+1279139842 d:\mystuff\projects\marbles2\project\source\irrnetlite\cnetmanager.h
+	<wchar.h>
+	<iostream>
+	<string>
+	<vector>
+	"INetManager.h"
+	"SPacket.h"
+	"enet/enet.h"
+
+1279139841 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet.h
+	<stdlib.h>
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/win32.h"
+	"enet/unix.h"
+
+1279139840 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet\types.h
+
+1279139840 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet\protocol.h
+	"enet/types.h"
+
+1279139841 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\types.h
+
+1279139840 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet\list.h
+	<stdlib.h>
+
+1279139840 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1279139840 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet\unix.h
+	<stdlib.h>
+	<sys/types.h>
+	<netinet/in.h>
+
+1279139842 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\spacket.cpp
+	"SPacket.h"
+	"zlib/zlib.h"
+	"CEncryption.h"
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\zlib.h
+	"zconf.h"
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1279139842 d:\mystuff\projects\marbles2\project\source\irrnetlite\cencryption.h
+	<string.h>
+	<memory.h>
+
+1279139842 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\host.c
+	"enet/memory.h"
+	"enet/enet.h"
+
+1279139840 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet\memory.h
+	<stdlib.h>
+
+1279139840 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet\enet.h
+	<stdlib.h>
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/win32.h"
+	"enet/unix.h"
+
+1279139841 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\protocol.h
+	"enet/types.h"
+
+1279139842 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\list.h
+	<stdlib.h>
+
+1279139841 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1279139841 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\unix.h
+	<stdlib.h>
+	<sys/types.h>
+	<netinet/in.h>
+
+1279139841 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\list.c
+	"enet/list.h"
+
+1279139841 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\memory.c
+	"enet/types.h"
+	"enet/memory.h"
+
+1279139841 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\packet.c
+	<string.h>
+	"enet/memory.h"
+	"enet/enet.h"
+
+1279139841 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\peer.c
+	"enet/memory.h"
+	"enet/enet.h"
+
+1279139841 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\protocol.c
+	<stdio.h>
+	<string.h>
+	"enet/utility.h"
+	"enet/memory.h"
+	"enet/time.h"
+	"enet/enet.h"
+
+1279139840 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet\utility.h
+
+1279139840 d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\enet\time.h
+
+1279139841 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\unix.c
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/ioctl.h>
+	<sys/time.h>
+	<netdb.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+	"enet/enet.h"
+	<fcntl.h>
+	<sys/poll.h>
+
+1279139841 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\enet\win32.c
+	<time.h>
+	"enet/enet.h"
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\adler32.c
+	"zlib.h"
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\compress.c
+	"zlib.h"
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\crc32.c
+	<stdio.h>
+	"zutil.h"
+	<limits.h>
+	"crc32.h"
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\crc32.h
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\deflate.c
+	"deflate.h"
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\deflate.h
+	"zutil.h"
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\gzio.c
+	<stdio.h>
+	"zutil.h"
+	<stdarg.h>
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\inftrees.h
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\inflate.h
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\inffast.h
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\inffixed.h
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1279139830 d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\trees.h
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\uncompr.c
+	"zlib.h"
+
+1279139830 source:d:\mystuff\projects\marbles2\project\source\irrnetlite\zlib\zutil.c
+	"zutil.h"
+
+1279139845 source:d:\mystuff\projects\marbles2\project\source\main.cpp
+	<irrlicht.h>
+	<CStateMachine.h>
+	<windows.h>
+
+1283670541 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventnodecloned.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1280497017 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cprogressbar.cpp
+	"CProgressBar.h"
+
+1280497003 d:\mystuff\projects\marbles2\project\include\codesnippets\cprogressbar.h
+	<irrlicht.h>
+
+1283670541 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventloadscene.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1283605722 d:\mystuff\projects\irrode\include\irrode\event\iirrodeeventqueue.h
+	<irrlicht.h>
+
+1283605722 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventqueue.h
+	<irrlicht.h>
+	<event/IIrrOdeEventQueue.h>
+
+1287920500 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1290257513 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\vector3d.h
+	"irrMath.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ireferencecounted.h
+	"irrTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\position2d.h
+	"vector2d.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\heapsort.h
+	"irrTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ematerialtypes.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ematerialflags.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\svertexindex.h
+	"irrTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ehardwarebufferflags.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\eprimitivetypes.h
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\path.h
+	"irrString.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ecullingtypes.h
+	"irrTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\edebugscenetypes.h
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\edriverfeatures.h
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\edrivertypes.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\eguialignment.h
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\eguielementtypes.h
+	"irrTypes.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\emeshwriterenums.h
+	"irrTypes.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\emessageboxflags.h
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\escenenodeanimatortypes.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\escenenodetypes.h
+	"irrTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\eterrainelements.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\fast_atof.h
+	"irrMath.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\sexposedvideodata.h
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ilogger.h
+	"IReferenceCounted.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\keycodes.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\eattributes.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ibonescenenode.h
+	"ISceneNode.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\eshadertypes.h
+	"irrTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguibutton.h
+	"IGUIElement.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguicheckbox.h
+	"IGUIElement.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguicombobox.h
+	"IGUIElement.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguicontextmenu.h
+	"IGUIElement.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguifontbitmap.h
+	"IGUIFont.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguiimage.h
+	"IGUIElement.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguimeshviewer.h
+	"IGUIElement.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguiscrollbar.h
+	"IGUIElement.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguispinbox.h
+	"IGUIElement.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguitoolbar.h
+	"IGUIElement.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\slight.h
+	"SColor.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imeshscenenode.h
+	"ISceneNode.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iosoperator.h
+	"IReferenceCounted.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\edevicetypes.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\itimer.h
+	"IReferenceCounted.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\sceneparameters.h
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\itextscenenode.h
+	"ISceneNode.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\skeymap.h
+	"Keycodes.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1287909780 d:\mystuff\projects\libs\irrlicht-1.7.2\include\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1287909778 d:\mystuff\projects\libs\irrlicht-1.7.2\include\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1288427988 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventidentify.h
+	<event/IIrrOdeEvent.h>
+
+1289661024 d:\mystuff\projects\irrode\include\irrode\event\cirrodeeventnoderemoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1283670541 d:\mystuff\projects\irrode\include\irrode\observer\cirrodeworldobserver.h
+	<event/CIrrOdeEventQueue.h>
+	<event/IIrrOdeEventListener.h>
+
+1288651416 d:\mystuff\projects\irrode\include\irrode\observer\cirroderecorder.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+	<event/IIrrOdeEvent.h>
+
+1285847174 d:\mystuff\projects\marbles2\project\include\irrodenet\cmarbles2worldobserver.h
+	<IrrOde.h>
+	<CMessage.h>
+	<irrlicht.h>
+	<CSerializer.h>
+
+1290259658 d:\mystuff\projects\marbles2\project\include\irrodenet\cmarbles2recorder.h
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<event/IIrrOdeEvent.h>
+	<CMessage.h>
+	<irrlicht.h>
+
+1290259556 source:d:\mystuff\projects\marbles2\project\source\irrodenet\cmarbles2recorder.cpp
+	<IrrOdeNet/CMarbles2Recorder.h>
+
+1290260578 source:d:\mystuff\projects\marbles2\project\source\irrodenet\cmarbles2worldobserver.cpp
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<IrrOdeNet/CEventIdentify.h>
+
+1288605861 d:\mystuff\projects\irrode\include\irrode\observer\cirrodeeventfactory.h
+	<observer/IEventFactory.h>
+
+1290868180 d:\mystuff\projects\irrode\include\irrode\observer\ieventfactory.h
+	<event/IIrrOdeEvent.h>
+
+1291544479 d:\mystuff\projects\irrode\include\irrode\motors\iirrodemotor.h
+	<CIrrOdeBody.h>
+
+1300526049 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cracetrackgenerator.cpp
+	<CRaceTrackGenerator.h>
+
+1300054274 d:\mystuff\projects\marbles2\project\include\codesnippets\cracetrackgenerator.h
+	"irrlicht.h"
+
+1300054660 source:d:\mystuff\projects\marbles2\project\source\codesnippets\cracetrackloader.cpp
+	<CRaceTrackLoader.h>
+
+1300055105 d:\mystuff\projects\marbles2\project\include\codesnippets\cracetrackloader.h
+	<irrlicht.h>
+	<CRaceTrackGenerator.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\cconfigfilemanager.cpp
+	<CConfigFileManager.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\cconfigfilemanager.h
+	<irrlicht.h>
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\irrlicht.h
+	"IrrCompileConfig.h"
+	"aabbox3d.h"
+	"CDynamicMeshBuffer.h"
+	"CIndexBuffer.h"
+	"CMeshBuffer.h"
+	"coreutil.h"
+	"CVertexBuffer.h"
+	"dimension2d.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"EDriverFeatures.h"
+	"EDriverTypes.h"
+	"EGUIAlignment.h"
+	"EGUIElementTypes.h"
+	"EHardwareBufferFlags.h"
+	"EMaterialFlags.h"
+	"EMaterialTypes.h"
+	"EMeshWriterEnums.h"
+	"EMessageBoxFlags.h"
+	"ESceneNodeAnimatorTypes.h"
+	"ESceneNodeTypes.h"
+	"ETerrainElements.h"
+	"fast_atof.h"
+	"heapsort.h"
+	"IAnimatedMesh.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+	"IAnimatedMeshSceneNode.h"
+	"IAttributeExchangingObject.h"
+	"IAttributes.h"
+	"IBillboardSceneNode.h"
+	"IBillboardTextSceneNode.h"
+	"IBoneSceneNode.h"
+	"ICameraSceneNode.h"
+	"ICursorControl.h"
+	"IDummyTransformationSceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"IEventReceiver.h"
+	"IFileList.h"
+	"IFileSystem.h"
+	"IGeometryCreator.h"
+	"IGPUProgrammingServices.h"
+	"IGUIButton.h"
+	"IGUICheckBox.h"
+	"IGUIColorSelectDialog.h"
+	"IGUIComboBox.h"
+	"IGUIContextMenu.h"
+	"IGUIEditBox.h"
+	"IGUIElement.h"
+	"IGUIElementFactory.h"
+	"IGUIEnvironment.h"
+	"IGUIFileOpenDialog.h"
+	"IGUIFont.h"
+	"IGUIFontBitmap.h"
+	"IGUIImage.h"
+	"IGUIInOutFader.h"
+	"IGUIListBox.h"
+	"IGUIMeshViewer.h"
+	"IGUIScrollBar.h"
+	"IGUISkin.h"
+	"IGUISpinBox.h"
+	"IGUISpriteBank.h"
+	"IGUIStaticText.h"
+	"IGUITabControl.h"
+	"IGUITable.h"
+	"IGUIToolbar.h"
+	"IGUIWindow.h"
+	"IGUITreeView.h"
+	"IImage.h"
+	"IImageLoader.h"
+	"IImageWriter.h"
+	"IIndexBuffer.h"
+	"ILightSceneNode.h"
+	"ILogger.h"
+	"IMaterialRenderer.h"
+	"IMaterialRendererServices.h"
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"IMeshCache.h"
+	"IMeshLoader.h"
+	"IMeshManipulator.h"
+	"IMeshSceneNode.h"
+	"IMeshWriter.h"
+	"IMetaTriangleSelector.h"
+	"IOSOperator.h"
+	"IParticleSystemSceneNode.h"
+	"IQ3LevelMesh.h"
+	"IQ3Shader.h"
+	"IReadFile.h"
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"IrrlichtDevice.h"
+	"irrList.h"
+	"irrMap.h"
+	"irrMath.h"
+	"irrString.h"
+	"irrTypes.h"
+	"path.h"
+	"irrXML.h"
+	"ISceneCollisionManager.h"
+	"ISceneManager.h"
+	"ISceneNode.h"
+	"ISceneNodeAnimator.h"
+	"ISceneNodeAnimatorCameraFPS.h"
+	"ISceneNodeAnimatorCameraMaya.h"
+	"ISceneNodeAnimatorCollisionResponse.h"
+	"ISceneNodeAnimatorFactory.h"
+	"ISceneNodeFactory.h"
+	"ISceneUserDataSerializer.h"
+	"IShaderConstantSetCallBack.h"
+	"IShadowVolumeSceneNode.h"
+	"ISkinnedMesh.h"
+	"ITerrainSceneNode.h"
+	"ITextSceneNode.h"
+	"ITexture.h"
+	"ITimer.h"
+	"ITriangleSelector.h"
+	"IVertexBuffer.h"
+	"IVideoDriver.h"
+	"IVideoModeList.h"
+	"IVolumeLightSceneNode.h"
+	"IWriteFile.h"
+	"IXMLReader.h"
+	"IXMLWriter.h"
+	"ILightManager.h"
+	"Keycodes.h"
+	"line2d.h"
+	"line3d.h"
+	"matrix4.h"
+	"plane3d.h"
+	"position2d.h"
+	"quaternion.h"
+	"rect.h"
+	"S3DVertex.h"
+	"SAnimatedMesh.h"
+	"SceneParameters.h"
+	"SColor.h"
+	"SExposedVideoData.h"
+	"SIrrCreationParameters.h"
+	"SKeyMap.h"
+	"SLight.h"
+	"SMaterial.h"
+	"SMesh.h"
+	"SMeshBuffer.h"
+	"SMeshBufferLightMap.h"
+	"SMeshBufferTangents.h"
+	"SParticle.h"
+	"SSharedMeshBuffer.h"
+	"SSkinMeshBuffer.h"
+	"SVertexIndex.h"
+	"SViewFrustum.h"
+	"triangle3d.h"
+	"vector2d.h"
+	"vector3d.h"
+	"SIrrCreationParameters.h"
+
+1329695778 c:\softwaredevelopement\irrlicht-1.7.3\include\irrcompileconfig.h
+	<stdio.h>
+	<xtl.h>
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\aabbox3d.h
+	"irrMath.h"
+	"plane3d.h"
+	"line3d.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\irrmath.h
+	"IrrCompileConfig.h"
+	"irrTypes.h"
+	<math.h>
+	<float.h>
+	<stdlib.h>
+	<limits.h>
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\irrtypes.h
+	"IrrCompileConfig.h"
+	<wchar.h>
+	<crtdbg.h>
+	"assert.h"
+	<stdlib.h>
+	<crtdbg.h>
+
+1318075212 c:\softwaredevelopement\irrlicht-1.7.3\include\plane3d.h
+	"irrMath.h"
+	"vector3d.h"
+
+1325811572 c:\softwaredevelopement\irrlicht-1.7.3\include\vector3d.h
+	"irrMath.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\line3d.h
+	"irrTypes.h"
+	"vector3d.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\cdynamicmeshbuffer.h
+	"IDynamicMeshBuffer.h"
+	"CVertexBuffer.h"
+	"CIndexBuffer.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\idynamicmeshbuffer.h
+	"IMeshBuffer.h"
+	"IVertexBuffer.h"
+	"IIndexBuffer.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\imeshbuffer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"aabbox3d.h"
+	"S3DVertex.h"
+	"SVertexIndex.h"
+	"EHardwareBufferFlags.h"
+	"EPrimitiveTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ireferencecounted.h
+	"irrTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\smaterial.h
+	"SColor.h"
+	"matrix4.h"
+	"irrArray.h"
+	"irrMath.h"
+	"EMaterialTypes.h"
+	"EMaterialFlags.h"
+	"SMaterialLayer.h"
+
+1307313386 c:\softwaredevelopement\irrlicht-1.7.3\include\scolor.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1316210470 c:\softwaredevelopement\irrlicht-1.7.3\include\matrix4.h
+	"irrMath.h"
+	"vector3d.h"
+	"vector2d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+	"rect.h"
+	"irrString.h"
+	<windows.h>
+
+1325811572 c:\softwaredevelopement\irrlicht-1.7.3\include\vector2d.h
+	"irrMath.h"
+	"dimension2d.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\dimension2d.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\rect.h
+	"irrTypes.h"
+	"dimension2d.h"
+	"position2d.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\position2d.h
+	"vector2d.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\irrstring.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\irrallocator.h
+	"irrTypes.h"
+	<new>
+	<memory.h>
+
+1307313386 c:\softwaredevelopement\irrlicht-1.7.3\include\irrarray.h
+	"irrTypes.h"
+	"heapsort.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\heapsort.h
+	"irrTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ematerialtypes.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\ematerialflags.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\smateriallayer.h
+	"matrix4.h"
+	"irrAllocator.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\s3dvertex.h
+	"vector3d.h"
+	"vector2d.h"
+	"SColor.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\svertexindex.h
+	"irrTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ehardwarebufferflags.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\eprimitivetypes.h
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ivertexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"S3DVertex.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iindexbuffer.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SVertexIndex.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\cvertexbuffer.h
+	"IVertexBuffer.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\cindexbuffer.h
+	"IIndexBuffer.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\cmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\coreutil.h
+	"irrString.h"
+	"path.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\path.h
+	"irrString.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ecullingtypes.h
+	"irrTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\edebugscenetypes.h
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\edriverfeatures.h
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\edrivertypes.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\eguialignment.h
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\eguielementtypes.h
+	"irrTypes.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\emeshwriterenums.h
+	"irrTypes.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\emessageboxflags.h
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\escenenodeanimatortypes.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\escenenodetypes.h
+	"irrTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\eterrainelements.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\fast_atof.h
+	"irrMath.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ianimatedmesh.h
+	"aabbox3d.h"
+	"IMesh.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\imesh.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"EHardwareBufferFlags.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\ianimatedmeshmd2.h
+	"IAnimatedMesh.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ianimatedmeshmd3.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+	"quaternion.h"
+
+1317762504 c:\softwaredevelopement\irrlicht-1.7.3\include\iq3shader.h
+	"irrArray.h"
+	"fast_atof.h"
+	"IFileSystem.h"
+	"IVideoDriver.h"
+	"coreutil.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ifilesystem.h
+	"IReferenceCounted.h"
+	"IXMLReader.h"
+	"IFileArchive.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ixmlreader.h
+	"IReferenceCounted.h"
+	"irrXML.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\irrxml.h
+	<stdio.h>
+	"IrrCompileConfig.h"
+	<irrXML.h>
+	<string>
+	<irrXML.h>
+	<irrXML.h>
+	<irrXML.h>
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ifilearchive.h
+	"IReadFile.h"
+	"IFileList.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ireadfile.h
+	"IReferenceCounted.h"
+	"coreutil.h"
+
+1288384902 c:\softwaredevelopement\irrlicht-1.7.3\include\ifilelist.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ivideodriver.h
+	"rect.h"
+	"SColor.h"
+	"ITexture.h"
+	"irrArray.h"
+	"matrix4.h"
+	"plane3d.h"
+	"dimension2d.h"
+	"position2d.h"
+	"SMaterial.h"
+	"IMeshBuffer.h"
+	"triangle3d.h"
+	"EDriverTypes.h"
+	"EDriverFeatures.h"
+	"SExposedVideoData.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\itexture.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"dimension2d.h"
+	"EDriverTypes.h"
+	"path.h"
+	"matrix4.h"
+
+1290809220 c:\softwaredevelopement\irrlicht-1.7.3\include\iimage.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+	"SColor.h"
+
+1328137064 c:\softwaredevelopement\irrlicht-1.7.3\include\triangle3d.h
+	"vector3d.h"
+	"line3d.h"
+	"plane3d.h"
+	"aabbox3d.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\sexposedvideodata.h
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\quaternion.h
+	"irrTypes.h"
+	"irrMath.h"
+	"matrix4.h"
+	"vector3d.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\ianimatedmeshscenenode.h
+	"ISceneNode.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMeshMD2.h"
+	"IAnimatedMeshMD3.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iscenenode.h
+	"IAttributeExchangingObject.h"
+	"ESceneNodeTypes.h"
+	"ECullingTypes.h"
+	"EDebugSceneTypes.h"
+	"ISceneNodeAnimator.h"
+	"ITriangleSelector.h"
+	"SMaterial.h"
+	"irrString.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"irrList.h"
+	"IAttributes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iattributeexchangingobject.h
+	"IReferenceCounted.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iscenenodeanimator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"ESceneNodeAnimatorTypes.h"
+	"IAttributeExchangingObject.h"
+	"IEventReceiver.h"
+
+1309045632 c:\softwaredevelopement\irrlicht-1.7.3\include\ieventreceiver.h
+	"ILogger.h"
+	"Keycodes.h"
+	"irrString.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ilogger.h
+	"IReferenceCounted.h"
+
+1325811572 c:\softwaredevelopement\irrlicht-1.7.3\include\keycodes.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\itriangleselector.h
+	"IReferenceCounted.h"
+	"triangle3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"line3d.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\irrlist.h
+	"irrTypes.h"
+	"irrAllocator.h"
+	"irrMath.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iattributes.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"vector3d.h"
+	"vector2d.h"
+	"line2d.h"
+	"line3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"rect.h"
+	"matrix4.h"
+	"quaternion.h"
+	"plane3d.h"
+	"triangle3d.h"
+	"line2d.h"
+	"line3d.h"
+	"irrString.h"
+	"irrArray.h"
+	"IXMLReader.h"
+	"EAttributes.h"
+
+1329435812 c:\softwaredevelopement\irrlicht-1.7.3\include\line2d.h
+	"irrTypes.h"
+	"vector2d.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\eattributes.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\ibonescenenode.h
+	"ISceneNode.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ibillboardscenenode.h
+	"ISceneNode.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\ibillboardtextscenenode.h
+	"IBillboardSceneNode.h"
+
+1307313386 c:\softwaredevelopement\irrlicht-1.7.3\include\icamerascenenode.h
+	"ISceneNode.h"
+	"IEventReceiver.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\icursorcontrol.h
+	"IReferenceCounted.h"
+	"position2d.h"
+	"rect.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\idummytransformationscenenode.h
+	"ISceneNode.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\igeometrycreator.h
+	"IReferenceCounted.h"
+	"IMesh.h"
+	"IImage.h"
+
+1288384902 c:\softwaredevelopement\irrlicht-1.7.3\include\igpuprogrammingservices.h
+	"EShaderTypes.h"
+	"EMaterialTypes.h"
+	"EPrimitiveTypes.h"
+	"path.h"
+
+1262090372 c:\softwaredevelopement\irrlicht-1.7.3\include\eshadertypes.h
+	"irrTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguibutton.h
+	"IGUIElement.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguielement.h
+	"IAttributeExchangingObject.h"
+	"irrList.h"
+	"rect.h"
+	"irrString.h"
+	"IEventReceiver.h"
+	"EGUIElementTypes.h"
+	"EGUIAlignment.h"
+	"IAttributes.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iguicheckbox.h
+	"IGUIElement.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iguicolorselectdialog.h
+	"IGUIElement.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iguicombobox.h
+	"IGUIElement.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguicontextmenu.h
+	"IGUIElement.h"
+
+1325811572 c:\softwaredevelopement\irrlicht-1.7.3\include\iguieditbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguielementfactory.h
+	"IReferenceCounted.h"
+	"EGUIElementTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguienvironment.h
+	"IReferenceCounted.h"
+	"IGUISkin.h"
+	"rect.h"
+	"EMessageBoxFlags.h"
+	"IEventReceiver.h"
+	"IXMLReader.h"
+	"path.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguiskin.h
+	"IAttributeExchangingObject.h"
+	"EGUIAlignment.h"
+	"SColor.h"
+	"rect.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iguifileopendialog.h
+	"IGUIElement.h"
+	"path.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguifont.h
+	"IReferenceCounted.h"
+	"SColor.h"
+	"rect.h"
+	"irrString.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguifontbitmap.h
+	"IGUIFont.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguiimage.h
+	"IGUIElement.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguiinoutfader.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iguilistbox.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguimeshviewer.h
+	"IGUIElement.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguiscrollbar.h
+	"IGUIElement.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguispinbox.h
+	"IGUIElement.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguispritebank.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"SColor.h"
+	"rect.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguistatictext.h
+	"IGUIElement.h"
+	"SColor.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguitabcontrol.h
+	"IGUIElement.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1288384902 c:\softwaredevelopement\irrlicht-1.7.3\include\iguitable.h
+	"IGUIElement.h"
+	"irrTypes.h"
+	"SColor.h"
+	"IGUISkin.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguitoolbar.h
+	"IGUIElement.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iguiwindow.h
+	"IGUIElement.h"
+	"EMessageBoxFlags.h"
+
+1262090372 c:\softwaredevelopement\irrlicht-1.7.3\include\iguitreeview.h
+	"IGUIElement.h"
+	"IGUIImageList.h"
+	"irrTypes.h"
+
+1262090372 c:\softwaredevelopement\irrlicht-1.7.3\include\iguiimagelist.h
+	"IGUIElement.h"
+	"rect.h"
+	"irrTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iimageloader.h
+	"IReferenceCounted.h"
+	"IImage.h"
+	"path.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iimagewriter.h
+	"IReferenceCounted.h"
+	"irrString.h"
+	"coreutil.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\ilightscenenode.h
+	"ISceneNode.h"
+	"SLight.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\slight.h
+	"SColor.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\imaterialrenderer.h
+	"IReferenceCounted.h"
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\imaterialrendererservices.h
+	"SMaterial.h"
+	"S3DVertex.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\imeshcache.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\imeshloader.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\imeshmanipulator.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IAnimatedMesh.h"
+	"IMeshBuffer.h"
+	"SVertexManipulator.h"
+
+1268346364 c:\softwaredevelopement\irrlicht-1.7.3\include\svertexmanipulator.h
+	"S3DVertex.h"
+	"SColor.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\imeshscenenode.h
+	"ISceneNode.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\imeshwriter.h
+	"IReferenceCounted.h"
+	"EMeshWriterEnums.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\imetatriangleselector.h
+	"ITriangleSelector.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iosoperator.h
+	"IReferenceCounted.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticlesystemscenenode.h
+	"ISceneNode.h"
+	"IParticleAnimatedMeshSceneNodeEmitter.h"
+	"IParticleBoxEmitter.h"
+	"IParticleCylinderEmitter.h"
+	"IParticleMeshEmitter.h"
+	"IParticleRingEmitter.h"
+	"IParticleSphereEmitter.h"
+	"IParticleAttractionAffector.h"
+	"IParticleFadeOutAffector.h"
+	"IParticleGravityAffector.h"
+	"IParticleRotationAffector.h"
+	"dimension2d.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticleanimatedmeshscenenodeemitter.h
+	"IParticleEmitter.h"
+	"IAnimatedMeshSceneNode.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticleemitter.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\sparticle.h
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticleboxemitter.h
+	"IParticleEmitter.h"
+	"aabbox3d.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticlecylinderemitter.h
+	"IParticleEmitter.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticlemeshemitter.h
+	"IParticleEmitter.h"
+	"IMesh.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticleringemitter.h
+	"IParticleEmitter.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticlesphereemitter.h
+	"IParticleEmitter.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticleattractionaffector.h
+	"IParticleAffector.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticleaffector.h
+	"IAttributeExchangingObject.h"
+	"SParticle.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticlefadeoutaffector.h
+	"IParticleAffector.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticlegravityaffector.h
+	"IParticleAffector.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iparticlerotationaffector.h
+	"IParticleAffector.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iq3levelmesh.h
+	"IAnimatedMesh.h"
+	"IQ3Shader.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\irrlichtdevice.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+	"IVideoDriver.h"
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"IEventReceiver.h"
+	"ICursorControl.h"
+	"IVideoModeList.h"
+	"ITimer.h"
+	"IOSOperator.h"
+
+1262090372 c:\softwaredevelopement\irrlicht-1.7.3\include\edevicetypes.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\ivideomodelist.h
+	"IReferenceCounted.h"
+	"dimension2d.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\itimer.h
+	"IReferenceCounted.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\irrmap.h
+	"irrTypes.h"
+	"irrMath.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iscenecollisionmanager.h
+	"IReferenceCounted.h"
+	"vector3d.h"
+	"triangle3d.h"
+	"position2d.h"
+	"line3d.h"
+
+1314573834 c:\softwaredevelopement\irrlicht-1.7.3\include\iscenemanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+	"path.h"
+	"vector3d.h"
+	"dimension2d.h"
+	"SColor.h"
+	"ETerrainElements.h"
+	"ESceneNodeTypes.h"
+	"ESceneNodeAnimatorTypes.h"
+	"EMeshWriterEnums.h"
+	"SceneParameters.h"
+	"IGeometryCreator.h"
+	"ISkinnedMesh.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\sceneparameters.h
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iskinnedmesh.h
+	"irrArray.h"
+	"IBoneSceneNode.h"
+	"IAnimatedMesh.h"
+	"SSkinMeshBuffer.h"
+
+1317070016 c:\softwaredevelopement\irrlicht-1.7.3\include\sskinmeshbuffer.h
+	"IMeshBuffer.h"
+	"S3DVertex.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iscenenodeanimatorcamerafps.h
+	"ISceneNodeAnimator.h"
+	"IEventReceiver.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iscenenodeanimatorcameramaya.h
+	"ISceneNodeAnimator.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iscenenodeanimatorcollisionresponse.h
+	"ISceneNode.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\iscenenodeanimatorfactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeAnimatorTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iscenenodefactory.h
+	"IReferenceCounted.h"
+	"ESceneNodeTypes.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\isceneuserdataserializer.h
+	"IReferenceCounted.h"
+
+1291467612 c:\softwaredevelopement\irrlicht-1.7.3\include\ishaderconstantsetcallback.h
+	"IReferenceCounted.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ishadowvolumescenenode.h
+	"ISceneNode.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iterrainscenenode.h
+	"ETerrainElements.h"
+	"ISceneNode.h"
+	"IDynamicMeshBuffer.h"
+	"irrArray.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\itextscenenode.h
+	"ISceneNode.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\ivolumelightscenenode.h
+	"ISceneNode.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\iwritefile.h
+	"IReferenceCounted.h"
+	"path.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\ixmlwriter.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+	"irrString.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\ilightmanager.h
+	"IReferenceCounted.h"
+	"irrArray.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\sanimatedmesh.h
+	"IAnimatedMesh.h"
+	"IMesh.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\sirrcreationparameters.h
+	"EDriverTypes.h"
+	"EDeviceTypes.h"
+	"dimension2d.h"
+	"ILogger.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\skeymap.h
+	"Keycodes.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\smesh.h
+	"IMesh.h"
+	"IMeshBuffer.h"
+	"aabbox3d.h"
+	"irrArray.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\smeshbuffer.h
+	"CMeshBuffer.h"
+
+1284752152 c:\softwaredevelopement\irrlicht-1.7.3\include\smeshbufferlightmap.h
+	"CMeshBuffer.h"
+
+1284752154 c:\softwaredevelopement\irrlicht-1.7.3\include\smeshbuffertangents.h
+	"CMeshBuffer.h"
+
+1319232458 c:\softwaredevelopement\irrlicht-1.7.3\include\ssharedmeshbuffer.h
+	"irrArray.h"
+	"IMeshBuffer.h"
+
+1318075246 c:\softwaredevelopement\irrlicht-1.7.3\include\sviewfrustum.h
+	"plane3d.h"
+	"vector3d.h"
+	"line3d.h"
+	"aabbox3d.h"
+	"matrix4.h"
+	"IVideoDriver.h"
+
+1279144816 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\ccredits.cpp
+	<CCredits.h>
+	<CStateMachine.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\ccredits.h
+	<IState.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\istate.h
+	<irrlicht.h>
+	<irrKlang.h>
+
+1338445694 c:\softwaredevelopement\irrklang-1.4.0\include\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_irrklangtypes.h
+
+1230626898 c:\softwaredevelopement\irrklang-1.4.0\include\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1233821622 c:\softwaredevelopement\irrklang-1.4.0\include\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1233820198 c:\softwaredevelopement\irrklang-1.4.0\include\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1266396206 c:\softwaredevelopement\irrklang-1.4.0\include\ik_esoundoutputdrivers.h
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_esoundengineoptions.h
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_estreammodes.h
+
+1230626898 c:\softwaredevelopement\irrklang-1.4.0\include\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1338446572 c:\softwaredevelopement\irrklang-1.4.0\include\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1338446642 c:\softwaredevelopement\irrklang-1.4.0\include\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1266397664 c:\softwaredevelopement\irrklang-1.4.0\include\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1230626896 c:\softwaredevelopement\irrklang-1.4.0\include\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1230630050 c:\softwaredevelopement\irrklang-1.4.0\include\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\cstatemachine.h
+	<irrlicht.h>
+	<IState.h>
+
+1290263130 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\cgame.cpp
+	<time.h>
+	<CGame.h>
+	<CStateMachine.h>
+	<CShadowManager.h>
+	<GameClasses/CHiScoreList.h>
+	<CConfigFileManager.h>
+	<CIrrOdeKlangManager.h>
+	<CIrrOdeKlangNode.h>
+	<CRenderToTextureManager.h>
+	<irrKlang.h>
+	<COptions.h>
+	<CRespawnNode.h>
+	<CReplayCam.h>
+	<irrCC.h>
+	<CProgressBar.h>
+	<IrrOdeNet/CMarbles2Recorder.h>
+	<GameClasses/CMarbleFollowAnimator.h>
+	<GameClasses/CGhostPlayer.h>
+	<GameClasses/IGameLogic.h>
+	<GameClasses/CRaceInfo.h>
+
+1290263176 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\cgame.h
+	<IState.h>
+	<irrCC.h>
+	<IrrOde.h>
+	<CShadowManager.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\irrcc.h
+	<irrlicht.h>
+	<CConfigFileManager.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\irrode.h
+	<CIrrOdeSurfaceParameters.h>
+	<CIrrOdeSpace.h>
+	<CIrrOdeWorld.h>
+	<IIrrOdeDevice.h>
+	<CIrrOdeManager.h>
+	<CIrrOdeSceneNodeFactory.h>
+	<geom/CIrrOdeGeomBox.h>
+	<geom/CIrrOdeGeomRay.h>
+	<geom/CIrrOdeGeomPlane.h>
+	<geom/CIrrOdeGeomSphere.h>
+	<geom/CIrrOdeGeomTrimesh.h>
+	<geom/CIrrOdeGeomCapsule.h>
+	<geom/CIrrOdeGeomCylinder.h>
+	<geom/CIrrOdeGeomHeightfield.h>
+	<event/IIrrOdeEvent.h>
+	<event/IIrrOdeEventListener.h>
+	<event/CIrrOdeEventStep.h>
+	<event/CIrrOdeEventInit.h>
+	<event/IIrrOdeEventQueue.h>
+	<event/CIrrOdeEventQueue.h>
+	<event/CIrrOdeEventClose.h>
+	<event/CIrrOdeEventJoint.h>
+	<event/CIrrOdeEventRayHit.h>
+	<event/IIrrOdeEventWriter.h>
+	<event/CIrrOdeEventRayHit.h>
+	<event/CIrrOdeEventTrigger.h>
+	<event/CIrrOdeEventProgress.h>
+	<event/CIrrOdeEventIdentify.h>
+	<event/CIrrOdeEventLoadScene.h>
+	<event/CIrrOdeEventBodyMoved.h>
+	<event/CIrrOdeEventBeforeStep.h>
+	<event/CIrrOdeEventNodeCloned.h>
+	<event/CIrrOdeEventJointHinge.h>
+	<event/CIrrOdeEventJointHinge2.h>
+	<event/CIrrOdeEventNodeRemoved.h>
+	<event/CIrrOdeEventBodyCreated.h>
+	<event/CIrrOdeEventBodyRemoved.h>
+	<event/CIrrOdeEventActivationChanged.h>
+	<joints/CIrrOdeJoint.h>
+	<joints/CIrrOdeJointFixed.h>
+	<joints/CIrrOdeJointHinge.h>
+	<joints/CIrrOdeJointHinge2.h>
+	<joints/CIrrOdeJointSlider.h>
+	<IIrrOdeContactParameters.h>
+	<motors/CIrrOdeMotor.h>
+	<motors/CIrrOdeServo.h>
+	<motors/IIrrOdeStepMotor.h>
+	<motors/CIrrOdeImpulseMotor.h>
+	<motors/CIrrOdeAeroDrag.h>
+	<motors/CIrrOdeTorqueMotor.h>
+	<observer/CIrrOdeWorldObserver.h>
+	<observer/CIrrOdeRecorder.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\cirrodesurfaceparameters.h
+	<irrlicht.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\cirrodespace.h
+	<CIrrOdeSceneNode.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\cirrodescenenode.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\iirrodeeventlistener.h
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\iirrodeevent.h
+	<irrlicht.h>
+	<CSerializer.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\cserializer.h
+	<irrlicht.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\cirrodeworld.h
+	<CIrrOdeDampable.h>
+	<IIrrOdeContactParameters.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\cirrodedampable.h
+	<CIrrOdeSceneNode.h>
+	<limits>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\iirrodecontactparameters.h
+	<CIrrOdeSurfaceParameters.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\iirrodedevice.h
+	<irrlicht.h>
+	<CIrrOdeWorld.h>
+	<IIrrOdeContactParameters.h>
+	<geom/CIrrOdeGeomRay.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\geom\cirrodegeomray.h
+	<irrlicht.h>
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\geom\cirrodegeom.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeSurfaceParameters.h>
+
+1343142553 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\cirrodemanager.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+	<observer/CIrrOdeEventFactory.h>
+	<CIrrOdeSurfaceParameters.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\observer\cirrodeeventfactory.h
+	<observer/IEventFactory.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\observer\ieventfactory.h
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\cirrodescenenodefactory.h
+	<irrlicht.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\geom\cirrodegeombox.h
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\geom\cirrodegeomplane.h
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\geom\cirrodegeomsphere.h
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\geom\cirrodegeomtrimesh.h
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\geom\cirrodegeomcapsule.h
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\geom\cirrodegeomcylinder.h
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\geom\cirrodegeomheightfield.h
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventstep.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventinit.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\iirrodeeventqueue.h
+	<irrlicht.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventqueue.h
+	<irrlicht.h>
+	<event/IIrrOdeEventQueue.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventclose.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventjoint.h
+	<irrlicht.h>
+	<CSerializer.h>
+	<event/IIrrOdeEvent.h>
+	<joints/CIrrOdeJoint.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\joints\cirrodejoint.h
+	<event/IIrrOdeEventWriter.h>
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeBody.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\iirrodeeventwriter.h
+	<CIrrOdeWorld.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\cirrodebody.h
+	<CIrrOdeDampable.h>
+	<event/IIrrOdeEventWriter.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventrayhit.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeomRay.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventtrigger.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventprogress.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventidentify.h
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventloadscene.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventbodymoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventbeforestep.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventnodecloned.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventjointhinge.h
+	<event/CIrrOdeEventJoint.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventjointhinge2.h
+	<event/CIrrOdeEventJoint.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventnoderemoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventbodycreated.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventbodyremoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\event\cirrodeeventactivationchanged.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\joints\cirrodejointfixed.h
+	<joints/CIrrOdeJoint.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\joints\cirrodejointhinge.h
+	<joints/CIrrOdeJoint.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\joints\cirrodejointhinge2.h
+	<joints/CIrrOdeJoint.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\joints\cirrodejointslider.h
+	<joints/CIrrOdeJoint.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\motors\cirrodemotor.h
+	<motors/IIrrOdeMotor.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\motors\iirrodemotor.h
+	<CIrrOdeBody.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\motors\cirrodeservo.h
+	<motors/IIrrOdeMotor.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\motors\iirrodestepmotor.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeManager.h>
+	<CIrrOdeBody.h>
+	<CIrrOdeWorld.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\motors\cirrodeimpulsemotor.h
+	<motors/IIrrOdeStepMotor.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\motors\cirrodeaerodrag.h
+	<motors/IIrrOdeStepMotor.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\motors\cirrodetorquemotor.h
+	<motors/IIrrOdeStepMotor.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\observer\cirrodeworldobserver.h
+	<event/CIrrOdeEventQueue.h>
+	<event/IIrrOdeEventListener.h>
+
+1334092154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode\include\irrode\observer\cirroderecorder.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+	<event/IIrrOdeEvent.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cshadowmanager.h
+	<irrlicht.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\chiscorelist.h
+	<irrlicht.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cirrodeklangmanager.h
+	<irrlicht.h>
+	<IrrOde.h>
+	<irrklang.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cirrodeklangnode.h
+	<irrlicht.h>
+	<irrklang.h>
+	<IrrOde.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\crendertotexturemanager.h
+	<event/IIrrOdeEventListener.h>
+	<CReplayCam.h>
+	<irrlicht.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\creplaycam.h
+	<irrlicht.h>
+
+1283374776 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\coptions.h
+	<IState.h>
+	<CConfigFileManager.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\crespawnnode.h
+	<irrlicht.h>
+
+1280500604 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cprogressbar.h
+	<irrlicht.h>
+
+1290263260 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\cmarbles2recorder.h
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<event/IIrrOdeEvent.h>
+	<CMessage.h>
+	<irrlicht.h>
+
+1285850776 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\cmarbles2worldobserver.h
+	<IrrOde.h>
+	<CMessage.h>
+	<irrlicht.h>
+	<CSerializer.h>
+
+1290263116 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cmessage.h
+	<irrlicht.h>
+	<CSerializer.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\cmarblefollowanimator.h
+	<irrlicht.h>
+	<irrklang.h>
+	<IrrOde.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\cghostplayer.h
+	<irrlicht.h>
+	<irrklang.h>
+	<event/IIrrOdeEventListener.h>
+
+1281457000 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\igamelogic.h
+	<irrlicht.h>
+	<irrOde.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\craceinfo.h
+	<irrlicht.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\chiscore.cpp
+	<CHiScore.h>
+	<CStateMachine.h>
+	<CFollowPathAnimator.h>
+	<IrrOde.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CHiScoreList.h>
+	<GameClasses/CLevelSelectGUI.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\chiscore.h
+	<IState.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cfollowpathanimator.h
+	<irrlicht.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\clevellist.h
+	<irrlicht.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\clevelselectgui.h
+	<irrlicht.h>
+	<irrklang.h>
+	<GameClasses/CLevelList.h>
+	<CFollowPathAnimator.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\clevel.cpp
+	<CLevel.h>
+	<CFollowPathAnimator.h>
+	<IrrOde.h>
+	<CStateMachine.h>
+	<CIrrOdeKlangManager.h>
+	<COptions.h>
+	<CShadowManager.h>
+	<GameClasses/CLevelSelectGUI.h>
+	<GameClasses/CHiScoreList.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CGameLogic.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CGhostPlayer.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\clevel.h
+	<IState.h>
+	<CConfigFileManager.h>
+
+1283374776 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\cgamelogic.h
+	<irrlicht.h>
+	<irrklang.h>
+	<GameClasses/IGameLogic.h>
+	<IrrOde.h>
+	<CSerializer.h>
+	<IrrOdeNet/IPacketHandler.h>
+	<event/IIrrOdeEventListener.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\ipackethandler.h
+	<CSerializer.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\cmenu.cpp
+	<CMenu.h>
+	<CStateMachine.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\cmenu.h
+	<IState.h>
+
+1283609326 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\cnetgame.cpp
+	<irrlicht.h>
+	<CNetGame.h>
+	<CStateMachine.h>
+	<CSerializer.h>
+	<CTournamentRace.h>
+	<COptions.h>
+	<CGame.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/NetMessages.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CGameLogic.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CNetPlayer.h>
+	<GameClasses/CTournamentInfo.h>
+	<GameClasses/CGameLogicClient.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\cnetgame.h
+	<GameClasses/CTournamentBase.h>
+	<IrrOdeNet/IPacketHandler.h>
+	<CConfigFileManager.h>
+	<CSerializer.h>
+	<event/IIrrOdeEventListener.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\ctournamentbase.h
+	<IState.h>
+	<CConfigFileManager.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\ctournamentrace.h
+	<IState.h>
+	<CConfigFileManager.h>
+	<IrrOdeNet/IPacketHandler.h>
+	<CSerializer.h>
+	<event/IIrrOdeEventListener.h>
+
+1285850776 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\cirrodenetadapter.h
+	<irrlicht.h>
+	<INetManager.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<event/IIrrOdeEvent.h>
+	<CPacketDistributor.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrnetlite\inetmanager.h
+	<SPacket.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrnetlite\spacket.h
+	<irrlicht.h>
+	"NoIrrlicht/NoIrrlicht.h"
+	<string>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cpacketdistributor.h
+	<IrrOdeNet/IPacketHandler.h>
+	<CSerializer.h>
+
+1283612628 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\ceventservermessage.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\worldobservermessages.h
+	<event/IIrrOdeEvent.h>
+
+1283612594 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\ceventclientmessage.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\netmessages.h
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\cnetplayer.h
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\ctournamentinfo.h
+	<irrlicht.h>
+
+1281700120 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\cgamelogicclient.h
+	<irrlicht.h>
+	<irrklang.h>
+	<IrrOdeNet/IPacketHandler.h>
+	<GameClasses/IGameLogic.h>
+	<IrrOde.h>
+	<CSerializer.h>
+
+1283374776 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\coptions.cpp
+	<COptions.h>
+	<CGame.h>
+	<CSettings.h>
+	<CStateMachine.h>
+	<CRenderToTextureManager.h>
+
+1285850776 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\csettings.h
+	<irrlicht.h>
+	<CConfigFileManager.h>
+
+1283609326 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\creplay.cpp
+	<CReplay.h>
+	<CReplaySelect.h>
+	<CStateMachine.h>
+	<CMarbles2Replayer.h>
+	<CIrrOdeKlangManager.h>
+	<CReplayCam.h>
+	<irrOde.h>
+	<GameClasses/CMarbleFollowAnimator.h>
+
+1279356790 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\creplay.h
+	<IState.h>
+	<irrklang.h>
+	<CConfigFileManager.h>
+	<IrrOdeNet/CIrrOdeRePlayer.h>
+
+1279356790 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\cirrodereplayer.h
+	<CSerializer.h>
+	<CShadowManager.h>
+	<irrlicht.h>
+	<irrklang.h>
+	<event/IIrrOdeEvent.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\creplayselect.h
+	<IState.h>
+	<irrklang.h>
+	<CConfigFileManager.h>
+	<IrrOdeNet/CIrrOdeRePlayer.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cmarbles2replayer.h
+	<IrrOdeNet/CIrrOdeRePlayer.h>
+	<event/IIrrOdeEventListener.h>
+
+1281300646 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\creplayselect.cpp
+	<CReplaySelect.h>
+	<CStateMachine.h>
+	<GameClasses/CLevelList.h>
+	<CMessage.h>
+	<CGame.h>
+	<IrrOdeNet/CEventPlayer.h>
+	<IrrOdeNet/CEventIdentify.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1283614668 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\ceventplayer.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1290264220 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\ceventidentify.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1285850774 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\csettings.cpp
+	<CSettings.h>
+	<math.h>
+	<CShadowManager.h>
+
+1343138650 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\cstatemachine.cpp
+	<CStateMachine.h>
+	<CSettings.h>
+	<COptions.h>
+	<CHiScore.h>
+	<CCredits.h>
+	<CMenu.h>
+	<CLevel.h>
+	<CGame.h>
+	<IrrOde.h>
+	<CIrrOdeKlangNode.h>
+	<CIrrOdeKlangManager.h>
+	<CTournamentRace.h>
+	<CTournament.h>
+	<CReplaySelect.h>
+	<CReplay.h>
+	<CPlugBULLETBYTEin.h>
+	<CNetGame.h>
+	<CRenderToTextureManager.h>
+	<CRaceTrackGenerator.h>
+	<CRaceTrackLoader.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<IrrOdeNet/CIrrOdeMessageFactory.h>
+	<IrrOdeNet/CMarbleMessageFactory.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\ctournament.h
+	<IState.h>
+	<CConfigFileManager.h>
+	<GameClasses/CTournamentBase.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cplugbulletbytein.h
+	<irrlicht.h>
+
+1300057876 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cracetrackgenerator.h
+	"irrlicht.h"
+
+1300058706 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cracetrackloader.h
+	<irrlicht.h>
+	<CRaceTrackGenerator.h>
+
+1294790878 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\cirrodemessagefactory.h
+	<IrrOdeNet/IMessageFactory.h>
+
+1294790878 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\imessagefactory.h
+	<event/IIrrOdeEvent.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\cmarblemessagefactory.h
+	<IrrOdeNet/IMessageFactory.h>
+	<CSerializer.h>
+
+1281799196 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\ctournament.cpp
+	<CTournament.h>
+	<CStateMachine.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CTournamentInfo.h>
+	<CTournamentRace.h>
+	<COptions.h>
+
+1283609326 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\ctournamentrace.cpp
+	<CIrrOdeKlangManager.h>
+	<CStateMachine.h>
+	<CSerializer.h>
+	<CGame.h>
+	<COptions.h>
+	<CTournamentRace.h>
+	<CIrrOdeManager.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/NetMessages.h>
+	<GameClasses/CNetPlayer.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CGameLogic.h>
+	<GameClasses/CTournamentInfo.h>
+	<GameClasses/CGameLogicClient.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cfollowpathanimator.cpp
+	<CFollowPathAnimator.h>
+	<CPreviewNode.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cpreviewnode.h
+	<irrlicht.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cirrodecontroller.cpp
+	<CIrrOdeController.h>
+
+1288432476 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cirrodecontroller.h
+	<IIrrOdeController.h>
+
+1288432492 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\iirrodecontroller.h
+	<irrlicht.h>
+	<CIrrOdeBody.h>
+
+1283609326 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cirrodeklangmanager.cpp
+	<irrlicht.h>
+	<CIrrOdeKlangManager.h>
+	<CIrrOdeKlangNode.h>
+
+1343142286 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cirrodeklangnode.cpp
+	<irrlicht.h>
+	<CIrrOdeKlangNode.h>
+	<CIrrOdeKlangManager.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cmanagedshadow.cpp
+	<irrlicht.h>
+	<CManagedShadow.h>
+	<CShadowManager.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\cmanagedshadow.h
+	<irrlicht.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cmarbles2replayer.cpp
+	<CIrrOdeKlangManager.h>
+	<CMarbles2RePlayer.h>
+	<CMessage.h>
+	<CGame.h>
+	<IrrOdeNet/CEventPlayer.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/CEventInit.h>
+
+1283614802 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\ceventcpinfo.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1283614772 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\ceventinit.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cmessage.cpp
+	<CSerializer.h>
+	<CMessage.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cplugbulletbytein.cpp
+	<CPlugBULLETBYTEin.h>
+	<CManagedShadow.h>
+	<CPreviewNode.h>
+	<CReplayCam.h>
+	<CRespawnNode.h>
+	<CRenderToTextureNode.h>
+
+1279143450 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\codesnippets\crendertotexturenode.h
+	<irrlicht.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cpreviewnode.cpp
+	<irrlicht.h>
+	<CPreviewNode.h>
+	<CPlugBULLETBYTEin.h>
+	<windows.h>
+
+1280500618 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cprogressbar.cpp
+	"CProgressBar.h"
+
+1300529650 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cracetrackgenerator.cpp
+	<CRaceTrackGenerator.h>
+
+1300058262 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cracetrackloader.cpp
+	<CRaceTrackLoader.h>
+
+1283609326 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\crendertotexturemanager.cpp
+	<CRenderToTextureManager.h>
+	<CRenderToTextureNode.h>
+	<CIrrOdeManager.h>
+	<event/CIrrOdeEventStep.h>
+	<event/IIrrOdeEventQueue.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\crendertotexturenode.cpp
+	<irrlicht.h>
+	<CRenderToTextureNode.h>
+	<CPlugBULLETBYTEin.h>
+	<CRenderToTextureManager.h>
+	<windows.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\creplaycam.cpp
+	<irrlicht.h>
+	<CReplayCam.h>
+	<windows.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\crespawnnode.cpp
+	<irrlicht.h>
+	<CRespawnNode.h>
+	<windows.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\cshadowmanager.cpp
+	<irrlicht.h>
+	<CShadowManager.h>
+	<CManagedShadow.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\codesnippets\irrcc.cpp
+	<irrCC.h>
+
+1302211100 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\cgamelogic.cpp
+	<GameClasses/CMarbleFollowAnimator.h>
+	<GameClasses/CNetPlayer.h>
+	<GameClasses/CGameLogic.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CPlayer.h>
+	<GameClasses/CGhostRecorder.h>
+	<IrrOdeNet/CEventInit.h>
+	<IrrOdeNet/NetMessages.h>
+	<IrrOdeNet/CEventPlayer.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/CMarbles2Recorder.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<CIrrOdeController.h>
+	<CSerializer.h>
+	<CRespawnNode.h>
+	<CMessage.h>
+	<COptions.h>
+	<CGame.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\cplayer.h
+	<irrlicht.h>
+	<irrklang.h>
+	<irrOde.h>
+
+1285850774 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\cghostrecorder.h
+	<IrrOde.h>
+	<irrlicht.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+
+1290263140 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\cgamelogicclient.cpp
+	<GameClasses/CMarbleFollowAnimator.h>
+	<GameClasses/CGameLogicClient.h>
+	<GameClasses/CNetPlayer.h>
+	<GameClasses/CRaceInfo.h>
+	<GameClasses/CPlayer.h>
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<IrrOdeNet/CIrrOdeNetController.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/CMarbles2Recorder.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/NetMessages.h>
+	<IrrOdeNet/CEventInit.h>
+	<event/CIrrOdeEventStep.h>
+	<CRenderToTextureManager.h>
+	<CIrrOdeKlangManager.h>
+	<CSerializer.h>
+	<CRespawnNode.h>
+	<CMessage.h>
+	<COptions.h>
+	<CGame.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\cirrodenetcontroller.h
+	<IIrrOdeController.h>
+	<CSerializer.h>
+
+1283609324 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\cghostplayer.cpp
+	<GameClasses/CGhostPlayer.h>
+	<GameClasses/CGhostClasses.h>
+	<CIrrOdeManager.h>
+	<event/IIrrOdeEventQueue.h>
+
+1279143448 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\gameclasses\cghostclasses.h
+	<irrlicht.h>
+	<CSerializer.h>
+
+1285850774 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\cghostrecorder.cpp
+	<GameClasses/CGhostRecorder.h>
+	<GameClasses/CGhostClasses.h>
+	<CGame.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1279143444 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\chiscorelist.cpp
+	<GameClasses/CHiScoreList.h>
+
+1279143444 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\clevellist.cpp
+	<GameClasses/CLevelList.h>
+
+1300622634 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\clevelselectgui.cpp
+	<GameClasses/CLevelSelectGUI.h>
+	<IrrOde.h>
+	<CIrrOdeKlangManager.h>
+	<CShadowManager.h>
+
+1343142319 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\cmarblefollowanimator.cpp
+	<GameClasses/CMarbleFollowAnimator.h>
+
+1343142328 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\cplayer.cpp
+	<GameClasses/CPlayer.h>
+	<CGame.h>
+	<CIrrOdeKlangManager.h>
+	<CIrrOdeKlangNode.h>
+	<GameClasses/CMarbleFollowAnimator.h>
+	<GameClasses/IGameLogic.h>
+	<CRenderToTextureManager.h>
+	<IIrrOdeController.h>
+	<IrrODE.h>
+
+1279143444 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\craceinfo.cpp
+	<GameClasses/CRaceInfo.h>
+
+1279143444 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\ctournamentbase.cpp
+	<CStateMachine.h>
+	<GameClasses/CLevelList.h>
+	<GameClasses/CTournamentInfo.h>
+	<GameClasses/CTournamentBase.h>
+	<CTournamentRace.h>
+	<COptions.h>
+
+1279143444 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\gameclasses\ctournamentinfo.cpp
+	<GameClasses/CTournamentInfo.h>
+	<GameClasses/CRaceInfo.h>
+
+1283612568 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\ceventclientmessage.cpp
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/NetMessages.h>
+
+1283615070 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\ceventcontrolmessage.cpp
+	<IrrOdeNet/CEventControlMessage.h>
+	<IrrOdeNet/NetMessages.h>
+
+1283614956 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\include\irrodenet\ceventcontrolmessage.h
+	<event/IIrrOdeEvent.h>
+	<IrrOdeNet/WorldObserverMessages.h>
+
+1283614886 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\ceventcpinfo.cpp
+	<IrrOdeNet/CEventCpInfo.h>
+
+1283615176 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\ceventidentify.cpp
+	<IrrOdeNet/CEventIdentify.h>
+
+1283614770 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\ceventinit.cpp
+	<IrrOdeNet/CEventInit.h>
+
+1283614668 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\ceventplayer.cpp
+	<IrrOdeNet/CEventPlayer.h>
+
+1283612730 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\ceventservermessage.cpp
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/NetMessages.h>
+
+1281300646 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\cirrodemessagefactory.cpp
+	<IrrOdeNet/CIrrOdeMessageFactory.h>
+	<event/CIrrOdeEventInit.h>
+	<event/CIrrOdeEventClose.h>
+	<event/CIrrOdeEventBeforeStep.h>
+	<event/CIrrOdeEventBodyCreated.h>
+	<event/CIrrOdeEventBodyRemoved.h>
+	<event/CIrrOdeEventBodyMoved.h>
+	<event/CIrrOdeEventLoadScene.h>
+	<event/CIrrOdeEventActivationChanged.h>
+	<event/CIrrOdeEventRayHit.h>
+	<event/CIrrOdeEventStep.h>
+
+1285850774 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\cirrodenetadapter.cpp
+	<IrrOdeNet/CIrrOdeMessageFactory.h>
+	<IrrOdeNet/CEventControlMessage.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/NetMessages.h>
+	<CIrrOdeKlangManager.h>
+	<CIrrOdeManager.h>
+	<CSerializer.h>
+	<irrklang.h>
+	<event/IIrrOdeEvent.h>
+	<event/CIrrOdeEventBodyRemoved.h>
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\cirrodenetcontroller.cpp
+	<IrrOdeNet/CIrrOdeNetController.h>
+	<IrrOdeNet/CEventControlMessage.h>
+	<IrrOdeNet/CIrrOdeNetAdapter.h>
+	<IrrOdeNet/NetMessages.h>
+
+1283609326 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\cirrodereplayer.cpp
+	<IrrOdeNet/CIrrOdeRePlayer.h>
+	<IrrOdeNet/CEventIdentify.h>
+	<IrrOdeNet/CIrrOdeMessageFactory.h>
+	<irrOde.h>
+	<CMessage.h>
+	<CShadowManager.h>
+	<CIrrOdeKlangManager.h>
+	<CRenderToTextureManager.h>
+
+1279356790 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\cmarblemessagefactory.cpp
+	<IrrOdeNet/CMarbleMessageFactory.h>
+	<IrrOdeNet/CEventControlMessage.h>
+	<IrrOdeNet/CEventClientMessage.h>
+	<IrrOdeNet/CEventServerMessage.h>
+	<IrrOdeNet/CEventIdentify.h>
+	<IrrOdeNet/CEventCpInfo.h>
+	<IrrOdeNet/CEventPlayer.h>
+	<IrrOdeNet/CEventInit.h>
+
+1290263156 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\cmarbles2recorder.cpp
+	<IrrOdeNet/CMarbles2Recorder.h>
+
+1290264180 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrodenet\cmarbles2worldobserver.cpp
+	<IrrOdeNet/CMarbles2WorldObserver.h>
+	<IrrOdeNet/CEventIdentify.h>
+
+1279143444 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\cnetmanager.cpp
+	"CNetManager.h"
+	<iostream>
+
+1279143444 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\cnetmanager.h
+	<wchar.h>
+	<iostream>
+	<string>
+	<vector>
+	"INetManager.h"
+	"SPacket.h"
+	"enet/enet.h"
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet.h
+	<stdlib.h>
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/win32.h"
+	"enet/unix.h"
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet\types.h
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet\protocol.h
+	"enet/types.h"
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\types.h
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet\list.h
+	<stdlib.h>
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet\unix.h
+	<stdlib.h>
+	<sys/types.h>
+	<netinet/in.h>
+
+1279143444 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\spacket.cpp
+	"SPacket.h"
+	"zlib/zlib.h"
+	"CEncryption.h"
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\zlib.h
+	"zconf.h"
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1279143444 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\cencryption.h
+	<string.h>
+	<memory.h>
+
+1279143444 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\host.c
+	"enet/memory.h"
+	"enet/enet.h"
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet\memory.h
+	<stdlib.h>
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet\enet.h
+	<stdlib.h>
+	"enet/types.h"
+	"enet/protocol.h"
+	"enet/list.h"
+	"enet/win32.h"
+	"enet/unix.h"
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\protocol.h
+	"enet/types.h"
+
+1279143444 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\list.h
+	<stdlib.h>
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\win32.h
+	<stdlib.h>
+	<winsock2.h>
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\unix.h
+	<stdlib.h>
+	<sys/types.h>
+	<netinet/in.h>
+
+1279143442 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\list.c
+	"enet/list.h"
+
+1279143442 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\memory.c
+	"enet/types.h"
+	"enet/memory.h"
+
+1279143442 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\packet.c
+	<string.h>
+	"enet/memory.h"
+	"enet/enet.h"
+
+1279143442 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\peer.c
+	"enet/memory.h"
+	"enet/enet.h"
+
+1279143442 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\protocol.c
+	<stdio.h>
+	<string.h>
+	"enet/utility.h"
+	"enet/memory.h"
+	"enet/time.h"
+	"enet/enet.h"
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet\utility.h
+
+1279143442 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\enet\time.h
+
+1279143442 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\unix.c
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/ioctl.h>
+	<sys/time.h>
+	<netdb.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+	<time.h>
+	"enet/enet.h"
+	<fcntl.h>
+	<sys/poll.h>
+
+1279143442 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\enet\win32.c
+	<time.h>
+	"enet/enet.h"
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\adler32.c
+	"zlib.h"
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\compress.c
+	"zlib.h"
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\crc32.c
+	<stdio.h>
+	"zutil.h"
+	<limits.h>
+	"crc32.h"
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\zutil.h
+	"zlib.h"
+	<stddef.h>
+	<string.h>
+	<stdlib.h>
+	<errno.h>
+	<alloc.h>
+	<malloc.h>
+	<malloc.h>
+	<unix.h>
+	<stdio.h>
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\crc32.h
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\deflate.c
+	"deflate.h"
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\deflate.h
+	"zutil.h"
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\gzio.c
+	<stdio.h>
+	"zutil.h"
+	<stdarg.h>
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\infback.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\inftrees.h
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\inflate.h
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\inffast.h
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\inffixed.h
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\inffast.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\inflate.c
+	"zutil.h"
+	"inftrees.h"
+	"inflate.h"
+	"inffast.h"
+	"inffixed.h"
+	<stdio.h>
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\inftrees.c
+	"zutil.h"
+	"inftrees.h"
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\trees.c
+	"deflate.h"
+	<ctype.h>
+	"trees.h"
+	<stdio.h>
+
+1279143432 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\trees.h
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\uncompr.c
+	"zlib.h"
+
+1279143432 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\irrnetlite\zlib\zutil.c
+	"zutil.h"
+
+1279143446 source:c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\old\marbles\stunt_marble_racers\project\source\main.cpp
+	<irrlicht.h>
+	<CStateMachine.h>
+	<windows.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\irrode.h
+	<CIrrOdeSurfaceParameters.h>
+	<CIrrOdeSpace.h>
+	<CIrrOdeWorld.h>
+	<IIrrOdeDevice.h>
+	<CIrrOdeManager.h>
+	<CIrrOdeSceneNodeFactory.h>
+	<geom/CIrrOdeGeomBox.h>
+	<geom/CIrrOdeGeomRay.h>
+	<geom/CIrrOdeGeomPlane.h>
+	<geom/CIrrOdeGeomSphere.h>
+	<geom/CIrrOdeGeomTrimesh.h>
+	<geom/CIrrOdeGeomCapsule.h>
+	<geom/CIrrOdeGeomCylinder.h>
+	<geom/CIrrOdeGeomHeightfield.h>
+	<event/IIrrOdeEvent.h>
+	<event/IIrrOdeEventListener.h>
+	<event/CIrrOdeEventStep.h>
+	<event/CIrrOdeEventInit.h>
+	<event/IIrrOdeEventQueue.h>
+	<event/CIrrOdeEventQueue.h>
+	<event/CIrrOdeEventClose.h>
+	<event/CIrrOdeEventJoint.h>
+	<event/CIrrOdeEventRayHit.h>
+	<event/IIrrOdeEventWriter.h>
+	<event/CIrrOdeEventRayHit.h>
+	<event/CIrrOdeEventTrigger.h>
+	<event/CIrrOdeEventProgress.h>
+	<event/CIrrOdeEventIdentify.h>
+	<event/CIrrOdeEventLoadScene.h>
+	<event/CIrrOdeEventBodyMoved.h>
+	<event/CIrrOdeEventBeforeStep.h>
+	<event/CIrrOdeEventNodeCloned.h>
+	<event/CIrrOdeEventJointHinge.h>
+	<event/CIrrOdeEventJointHinge2.h>
+	<event/CIrrOdeEventNodeRemoved.h>
+	<event/CIrrOdeEventBodyCreated.h>
+	<event/CIrrOdeEventBodyRemoved.h>
+	<event/CIrrOdeEventActivationChanged.h>
+	<joints/CIrrOdeJoint.h>
+	<joints/CIrrOdeJointFixed.h>
+	<joints/CIrrOdeJointHinge.h>
+	<joints/CIrrOdeJointHinge2.h>
+	<joints/CIrrOdeJointSlider.h>
+	<IIrrOdeContactParameters.h>
+	<motors/CIrrOdeMotor.h>
+	<motors/CIrrOdeServo.h>
+	<motors/IIrrOdeStepMotor.h>
+	<motors/CIrrOdeImpulseMotor.h>
+	<motors/CIrrOdeAeroDrag.h>
+	<motors/CIrrOdeTorqueMotor.h>
+	<observer/CIrrOdeWorldObserver.h>
+	<observer/CIrrOdeRecorder.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\cirrodesurfaceparameters.h
+	<irrlicht.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\cirrodespace.h
+	<CIrrOdeSceneNode.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\cirrodescenenode.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\iirrodeeventlistener.h
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\iirrodeevent.h
+	<irrlicht.h>
+	<CSerializer.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\cserializer.h
+	<irrlicht.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\cirrodeworld.h
+	<CIrrOdeDampable.h>
+	<IIrrOdeContactParameters.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\cirrodedampable.h
+	<CIrrOdeSceneNode.h>
+	<limits>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\iirrodecontactparameters.h
+	<CIrrOdeSurfaceParameters.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\iirrodedevice.h
+	<irrlicht.h>
+	<CIrrOdeWorld.h>
+	<IIrrOdeContactParameters.h>
+	<geom/CIrrOdeGeomRay.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\geom\cirrodegeomray.h
+	<irrlicht.h>
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\geom\cirrodegeom.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeSurfaceParameters.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\cirrodemanager.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+	<observer/CIrrOdeEventFactory.h>
+	<CIrrOdeSurfaceParameters.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\observer\cirrodeeventfactory.h
+	<observer/IEventFactory.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\observer\ieventfactory.h
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\cirrodescenenodefactory.h
+	<irrlicht.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\geom\cirrodegeombox.h
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\geom\cirrodegeomplane.h
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\geom\cirrodegeomsphere.h
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\geom\cirrodegeomtrimesh.h
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\geom\cirrodegeomcapsule.h
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\geom\cirrodegeomcylinder.h
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\geom\cirrodegeomheightfield.h
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventstep.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventinit.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\iirrodeeventqueue.h
+	<irrlicht.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventqueue.h
+	<irrlicht.h>
+	<event/IIrrOdeEventQueue.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventclose.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventjoint.h
+	<irrlicht.h>
+	<CSerializer.h>
+	<event/IIrrOdeEvent.h>
+	<joints/CIrrOdeJoint.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\joints\cirrodejoint.h
+	<event/IIrrOdeEventWriter.h>
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeBody.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\iirrodeeventwriter.h
+	<CIrrOdeManager.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\cirrodebody.h
+	<CIrrOdeDampable.h>
+	<event/IIrrOdeEventWriter.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventrayhit.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeomRay.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventtrigger.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventprogress.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventidentify.h
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventloadscene.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventbodymoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventbeforestep.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventnodecloned.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventjointhinge.h
+	<event/CIrrOdeEventJoint.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventjointhinge2.h
+	<event/CIrrOdeEventJoint.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventnoderemoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventbodycreated.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventbodyremoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\event\cirrodeeventactivationchanged.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\joints\cirrodejointfixed.h
+	<joints/CIrrOdeJoint.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\joints\cirrodejointhinge.h
+	<joints/CIrrOdeJoint.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\joints\cirrodejointhinge2.h
+	<joints/CIrrOdeJoint.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\joints\cirrodejointslider.h
+	<joints/CIrrOdeJoint.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\motors\cirrodemotor.h
+	<motors/IIrrOdeMotor.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\motors\iirrodemotor.h
+	<CIrrOdeBody.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\motors\cirrodeservo.h
+	<motors/IIrrOdeMotor.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\motors\iirrodestepmotor.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeManager.h>
+	<CIrrOdeBody.h>
+	<CIrrOdeWorld.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\motors\cirrodeimpulsemotor.h
+	<motors/IIrrOdeStepMotor.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\motors\cirrodeaerodrag.h
+	<motors/IIrrOdeStepMotor.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\motors\cirrodetorquemotor.h
+	<motors/IIrrOdeStepMotor.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\observer\cirrodeworldobserver.h
+	<event/CIrrOdeEventQueue.h>
+	<event/IIrrOdeEventListener.h>
+
+1332356154 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode2\include\irrode\observer\cirroderecorder.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+	<event/IIrrOdeEvent.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\irrode.h
+	<CIrrOdeSurfaceParameters.h>
+	<CIrrOdeSpace.h>
+	<CIrrOdeWorld.h>
+	<IIrrOdeDevice.h>
+	<CIrrOdeManager.h>
+	<CIrrOdeSceneNodeFactory.h>
+	<geom/CIrrOdeGeomBox.h>
+	<geom/CIrrOdeGeomRay.h>
+	<geom/CIrrOdeGeomPlane.h>
+	<geom/CIrrOdeGeomSphere.h>
+	<geom/CIrrOdeGeomTrimesh.h>
+	<geom/CIrrOdeGeomCapsule.h>
+	<geom/CIrrOdeGeomCylinder.h>
+	<event/CIrrOdeEventRayHit.h>
+	<geom/CIrrOdeGeomHeightfield.h>
+	<event/IIrrOdeEvent.h>
+	<event/IIrrOdeEventListener.h>
+	<event/CIrrOdeEventStep.h>
+	<event/CIrrOdeEventInit.h>
+	<event/IIrrOdeEventQueue.h>
+	<event/CIrrOdeEventQueue.h>
+	<event/CIrrOdeEventClose.h>
+	<event/CIrrOdeEventRayHit.h>
+	<event/CIrrOdeEventProgress.h>
+	<event/CIrrOdeEventIdentify.h>
+	<event/CIrrOdeEventLoadScene.h>
+	<event/CIrrOdeEventBodyMoved.h>
+	<event/CIrrOdeEventBeforeStep.h>
+	<event/CIrrOdeEventNodeCloned.h>
+	<event/CIrrOdeEventNodeRemoved.h>
+	<event/CIrrOdeEventBodyCreated.h>
+	<event/CIrrOdeEventBodyRemoved.h>
+	<event/CIrrOdeEventActivationChanged.h>
+	<joints/CIrrOdeJoint.h>
+	<joints/CIrrOdeJointFixed.h>
+	<joints/CIrrOdeJointHinge.h>
+	<joints/CIrrOdeJointHinge2.h>
+	<joints/CIrrOdeJointSlider.h>
+	<joints/CIrrOdeJointPiston.h>
+	<joints/CIrrOdeJointBallSocket.h>
+	<joints/CIrrOdeJointUniversal.h>
+	<IIrrOdeContactParameters.h>
+	<motors/CIrrOdeMotor.h>
+	<motors/CIrrOdeServo.h>
+	<motors/IIrrOdeStepMotor.h>
+	<motors/CIrrOdeImpulseMotor.h>
+	<motors/CIrrOdeAeroDrag.h>
+	<motors/CIrrOdeTorqueMotor.h>
+	<observer/CIrrOdeWorldObserver.h>
+	<observer/CIrrOdeRecorder.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\cirrodesurfaceparameters.h
+	<irrlicht.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\cirrodespace.h
+	<CIrrOdeSceneNode.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\cirrodescenenode.h
+	<irrlicht.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\cirrodeworld.h
+	<CIrrOdeDampable.h>
+	<IIrrOdeContactParameters.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\cirrodedampable.h
+	<CIrrOdeSceneNode.h>
+	<limits>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\iirrodecontactparameters.h
+	<CIrrOdeSurfaceParameters.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\iirrodedevice.h
+	<irrlicht.h>
+	<CIrrOdeWorld.h>
+	<IIrrOdeContactParameters.h>
+	<geom/CIrrOdeGeomRay.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\geom\cirrodegeomray.h
+	<irrlicht.h>
+	<geom/CIrrOdeGeom.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\geom\cirrodegeom.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeSurfaceParameters.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\cirrodemanager.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+	<observer/CIrrOdeEventFactory.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\iirrodeeventlistener.h
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\iirrodeevent.h
+	<irrlicht.h>
+	<CSerializer.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\cserializer.h
+	<irrlicht.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\observer\cirrodeeventfactory.h
+	<observer/IEventFactory.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\observer\ieventfactory.h
+	<event/IIrrOdeEvent.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\cirrodescenenodefactory.h
+	<irrlicht.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\geom\cirrodegeombox.h
+	<geom/CIrrOdeGeom.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\geom\cirrodegeomplane.h
+	<geom/CIrrOdeGeom.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\geom\cirrodegeomsphere.h
+	<geom/CIrrOdeGeom.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\geom\cirrodegeomtrimesh.h
+	<geom/CIrrOdeGeom.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\geom\cirrodegeomcapsule.h
+	<geom/CIrrOdeGeom.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\geom\cirrodegeomcylinder.h
+	<geom/CIrrOdeGeom.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventrayhit.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeomRay.h>
+
+1310217922 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\cirrodebody.h
+	<CIrrOdeDampable.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\geom\cirrodegeomheightfield.h
+	<geom/CIrrOdeGeom.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventstep.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventinit.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\iirrodeeventqueue.h
+	<irrlicht.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventqueue.h
+	<irrlicht.h>
+	<event/IIrrOdeEventQueue.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventclose.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventprogress.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventidentify.h
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventloadscene.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventbodymoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventbeforestep.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventnodecloned.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventnoderemoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventbodycreated.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventbodyremoved.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\event\cirrodeeventactivationchanged.h
+	<irrlicht.h>
+	<event/IIrrOdeEvent.h>
+	<CIrrOdeBody.h>
+	<geom/CIrrOdeGeom.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\joints\cirrodejoint.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeBody.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\joints\cirrodejointfixed.h
+	<joints/CIrrOdeJoint.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\joints\cirrodejointhinge.h
+	<joints/CIrrOdeJoint.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\joints\cirrodejointhinge2.h
+	<joints/CIrrOdeJoint.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\joints\cirrodejointslider.h
+	<joints/CIrrOdeJoint.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\joints\cirrodejointpiston.h
+	<joints/CIrrOdeJoint.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\joints\cirrodejointballsocket.h
+	<joints/CIrrOdeJoint.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\joints\cirrodejointuniversal.h
+	<irrlicht.h>
+	<joints/CIrrOdeJoint.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\motors\cirrodemotor.h
+	<motors/IIrrOdeMotor.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\motors\iirrodemotor.h
+	<CIrrOdeBody.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\motors\cirrodeservo.h
+	<motors/IIrrOdeMotor.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\motors\iirrodestepmotor.h
+	<CIrrOdeSceneNode.h>
+	<CIrrOdeManager.h>
+	<CIrrOdeBody.h>
+	<CIrrOdeWorld.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\motors\cirrodeimpulsemotor.h
+	<motors/IIrrOdeStepMotor.h>
+
+1310217918 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\motors\cirrodeaerodrag.h
+	<motors/IIrrOdeStepMotor.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\motors\cirrodetorquemotor.h
+	<motors/IIrrOdeStepMotor.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\observer\cirrodeworldobserver.h
+	<event/CIrrOdeEventQueue.h>
+	<event/IIrrOdeEventListener.h>
+
+1310217920 c:\users\kerouinci\documents\visual studio 2010\projects\simon lucas visual\ode\irrode3\include\irrode\observer\cirroderecorder.h
+	<irrlicht.h>
+	<event/IIrrOdeEventListener.h>
+	<event/IIrrOdeEvent.h>
+

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="marbles2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="..\marbles2" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="..\..\marbles2" />
+				<Option object_output="..\..\_obj_dump\marbles2\debug" />
+				<Option external_deps="..\..\irrOde3\bin\gcc-win32\libIrrOde.a;" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-D_DEBUG" />
+				</Compiler>
+				<Linker>
+					<Add library="C:\Users\Kerouinci\Documents\Visual Studio 2010\Projects\SIMON LUCAS VISUAL\ODE\ode011\lib\DebugSingleLib\libode_singled.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="..\marbles2" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="..\..\marbles2" />
+				<Option object_output="..\..\_obj_dump\marbles2\release" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="C:\Users\Kerouinci\Documents\Visual Studio 2010\Projects\SIMON LUCAS VISUAL\ODE\ode011\lib\DebugSingleLib\libode_singled.a" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-DCOMPILE_WITH_IRRLICHT" />
+			<Add directory="C:/SoftwareDevelopement/irrlicht-1.7.3/include" />
+			<Add directory="C:\Users\Kerouinci\Documents\Visual Studio 2010\Projects\SIMON LUCAS VISUAL\ODE\ode011\include" />
+			<Add directory="C:\Users\Kerouinci\Documents\Visual Studio 2010\Projects\SIMON LUCAS VISUAL\ODE\irrOde3\include\IrrOde" />
+			<Add directory="include\CodeSnippets" />
+			<Add directory="include" />
+			<Add directory="C:\SoftwareDevelopement\irrKlang-1.4.0\include" />
+			<Add directory="include\irrNetLite" />
+			<Add directory="source\irrNetLite" />
+		</Compiler>
+		<Linker>
+			<Add library="C:\SoftwareDevelopement\irrlicht-1.7.3\lib\Win32-gcc\Irrlicht.dll.a" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add library="libIrrOde.a" />
+			<Add library="C:\SoftwareDevelopement\irrKlang-1.4.0\lib\Win32-gcc\libirrKlang.a" />
+			<Add library="libws2_32.a" />
+			<Add directory="C:\Users\Kerouinci\Documents\Visual Studio 2010\Projects\SIMON LUCAS VISUAL\ODE\irrOde3\bin\gcc-win32" />
+			<Add directory="C:\Program Files (x86)\CodeBlocks\MinGW\lib" />
+			<Add directory="C:\Programme\CodeBlocks\MinGW\lib" />
+		</Linker>
+		<Unit filename="include\CConfigFileManager.h" />
+		<Unit filename="include\CCredits.h" />
+		<Unit filename="include\CGame.h" />
+		<Unit filename="include\CHiScore.h" />
+		<Unit filename="include\CLevel.h" />
+		<Unit filename="include\CMenu.h" />
+		<Unit filename="include\CNetGame.h" />
+		<Unit filename="include\COptions.h" />
+		<Unit filename="include\CReplay.h" />
+		<Unit filename="include\CReplaySelect.h" />
+		<Unit filename="include\CSettings.h" />
+		<Unit filename="include\CStateMachine.h" />
+		<Unit filename="include\CTournament.h" />
+		<Unit filename="include\CTournamentRace.h" />
+		<Unit filename="include\CodeSnippets\CFollowPathAnimator.h" />
+		<Unit filename="include\CodeSnippets\CIrrOdeController.h" />
+		<Unit filename="include\CodeSnippets\CIrrOdeKlangManager.h" />
+		<Unit filename="include\CodeSnippets\CIrrOdeKlangNode.h" />
+		<Unit filename="include\CodeSnippets\CIrrOdeNetAdapter.h" />
+		<Unit filename="include\CodeSnippets\CIrrOdeWorldObserver.h" />
+		<Unit filename="include\CodeSnippets\CManagedShadow.h" />
+		<Unit filename="include\CodeSnippets\CManagedShadowFactory.h" />
+		<Unit filename="include\CodeSnippets\CMarbles2Replayer.h" />
+		<Unit filename="include\CodeSnippets\CMessage.h" />
+		<Unit filename="include\CodeSnippets\CPacketDistributor.h" />
+		<Unit filename="include\CodeSnippets\CPlugBULLETBYTEin.h" />
+		<Unit filename="include\CodeSnippets\CPreviewNode.h" />
+		<Unit filename="include\CodeSnippets\CProgressBar.h" />
+		<Unit filename="include\CodeSnippets\CRaceTrackGenerator.h" />
+		<Unit filename="include\CodeSnippets\CRaceTrackLoader.h" />
+		<Unit filename="include\CodeSnippets\CRenderToTextureManager.h" />
+		<Unit filename="include\CodeSnippets\CRenderToTextureNode.h" />
+		<Unit filename="include\CodeSnippets\CReplayCam.h" />
+		<Unit filename="include\CodeSnippets\CRespawnNode.h" />
+		<Unit filename="include\CodeSnippets\CShadowManager.h" />
+		<Unit filename="include\CodeSnippets\irrCC.h" />
+		<Unit filename="include\GameClasses\CGameLogic.h" />
+		<Unit filename="include\GameClasses\CGameLogicClient.h" />
+		<Unit filename="include\GameClasses\CGhostClasses.h" />
+		<Unit filename="include\GameClasses\CGhostPlayer.h" />
+		<Unit filename="include\GameClasses\CGhostRecorder.h" />
+		<Unit filename="include\GameClasses\CHiScoreList.h" />
+		<Unit filename="include\GameClasses\CLevelList.h" />
+		<Unit filename="include\GameClasses\CLevelSelectGUI.h" />
+		<Unit filename="include\GameClasses\CMarbleFollowAnimator.h" />
+		<Unit filename="include\GameClasses\CNetPlayer.h" />
+		<Unit filename="include\GameClasses\CPlayer.h" />
+		<Unit filename="include\GameClasses\CRaceInfo.h" />
+		<Unit filename="include\GameClasses\CTournamentBase.h" />
+		<Unit filename="include\GameClasses\CTournamentInfo.h" />
+		<Unit filename="include\GameClasses\IGameLogic.h" />
+		<Unit filename="include\IState.h" />
+		<Unit filename="include\IrrOdeNet\CEventClientMessage.h" />
+		<Unit filename="include\IrrOdeNet\CEventControlMessage.h" />
+		<Unit filename="include\IrrOdeNet\CEventCpInfo.h" />
+		<Unit filename="include\IrrOdeNet\CEventIdentify.h" />
+		<Unit filename="include\IrrOdeNet\CEventInit.h" />
+		<Unit filename="include\IrrOdeNet\CEventPlayer.h" />
+		<Unit filename="include\IrrOdeNet\CEventServerMessage.h" />
+		<Unit filename="include\IrrOdeNet\CIrrOdeMessageFactory.h" />
+		<Unit filename="include\IrrOdeNet\CIrrOdeNetAdapter.h" />
+		<Unit filename="include\IrrOdeNet\CIrrOdeNetController.h" />
+		<Unit filename="include\IrrOdeNet\CIrrOdeRePlayer.h" />
+		<Unit filename="include\IrrOdeNet\CIrrOdeRecorder.h" />
+		<Unit filename="include\IrrOdeNet\CMarbleMessageFactory.h" />
+		<Unit filename="include\IrrOdeNet\CMarbles2Recorder.h" />
+		<Unit filename="include\IrrOdeNet\CMarbles2WorldObserver.h" />
+		<Unit filename="include\IrrOdeNet\IMessageFactory.h" />
+		<Unit filename="include\IrrOdeNet\IPacketHandler.h" />
+		<Unit filename="include\IrrOdeNet\NetMessages.h" />
+		<Unit filename="include\IrrOdeNet\WorldObserverMessages.h" />
+		<Unit filename="include\irrNetLite\INetManager.h" />
+		<Unit filename="include\irrNetLite\NoIrrlicht\IrrCompileConfig.h" />
+		<Unit filename="include\irrNetLite\NoIrrlicht\NoIrrlicht.h" />
+		<Unit filename="include\irrNetLite\NoIrrlicht\heapsort.h" />
+		<Unit filename="include\irrNetLite\NoIrrlicht\irrAllocator.h" />
+		<Unit filename="include\irrNetLite\NoIrrlicht\irrArray.h" />
+		<Unit filename="include\irrNetLite\NoIrrlicht\irrMath.h" />
+		<Unit filename="include\irrNetLite\NoIrrlicht\irrString.h" />
+		<Unit filename="include\irrNetLite\NoIrrlicht\irrTypes.h" />
+		<Unit filename="include\irrNetLite\NoIrrlicht\vector3d.h" />
+		<Unit filename="include\irrNetLite\SPacket.h" />
+		<Unit filename="include\irrNetLite\irrNet.h" />
+		<Unit filename="source\CConfigFileManager.cpp" />
+		<Unit filename="source\CCredits.cpp" />
+		<Unit filename="source\CGame.cpp" />
+		<Unit filename="source\CHiScore.cpp" />
+		<Unit filename="source\CLevel.cpp" />
+		<Unit filename="source\CMenu.cpp" />
+		<Unit filename="source\CNetGame.cpp" />
+		<Unit filename="source\COptions.cpp" />
+		<Unit filename="source\CReplay.cpp" />
+		<Unit filename="source\CReplaySelect.cpp" />
+		<Unit filename="source\CSettings.cpp" />
+		<Unit filename="source\CStateMachine.cpp" />
+		<Unit filename="source\CTournament.cpp" />
+		<Unit filename="source\CTournamentRace.cpp" />
+		<Unit filename="source\CodeSnippets\CFollowPathAnimator.cpp" />
+		<Unit filename="source\CodeSnippets\CIrrOdeController.cpp" />
+		<Unit filename="source\CodeSnippets\CIrrOdeKlangManager.cpp" />
+		<Unit filename="source\CodeSnippets\CIrrOdeKlangNode.cpp" />
+		<Unit filename="source\CodeSnippets\CManagedShadow.cpp" />
+		<Unit filename="source\CodeSnippets\CMarbles2RePlayer.cpp" />
+		<Unit filename="source\CodeSnippets\CMessage.cpp" />
+		<Unit filename="source\CodeSnippets\CPlugBULLETBYTEin.cpp" />
+		<Unit filename="source\CodeSnippets\CPreviewNode.cpp" />
+		<Unit filename="source\CodeSnippets\CProgressBar.cpp" />
+		<Unit filename="source\CodeSnippets\CRaceTrackGenerator.cpp" />
+		<Unit filename="source\CodeSnippets\CRaceTrackLoader.cpp" />
+		<Unit filename="source\CodeSnippets\CRenderToTextureManager.cpp" />
+		<Unit filename="source\CodeSnippets\CRenderToTextureNode.cpp" />
+		<Unit filename="source\CodeSnippets\CReplayCam.cpp" />
+		<Unit filename="source\CodeSnippets\CRespawnNode.cpp" />
+		<Unit filename="source\CodeSnippets\CShadowManager.cpp" />
+		<Unit filename="source\CodeSnippets\irrCC.cpp" />
+		<Unit filename="source\GameClasses\CGameLogic.cpp" />
+		<Unit filename="source\GameClasses\CGameLogicClient.cpp" />
+		<Unit filename="source\GameClasses\CGhostPlayer.cpp" />
+		<Unit filename="source\GameClasses\CGhostRecorder.cpp" />
+		<Unit filename="source\GameClasses\CHiScoreList.cpp" />
+		<Unit filename="source\GameClasses\CLevelList.cpp" />
+		<Unit filename="source\GameClasses\CLevelSelectGUI.cpp" />
+		<Unit filename="source\GameClasses\CMarbleFollowAnimator.cpp" />
+		<Unit filename="source\GameClasses\CPlayer.cpp" />
+		<Unit filename="source\GameClasses\CRaceInfo.cpp" />
+		<Unit filename="source\GameClasses\CTournamentBase.cpp" />
+		<Unit filename="source\GameClasses\CTournamentInfo.cpp" />
+		<Unit filename="source\IrrOdeNet\CEventClientMessage.cpp" />
+		<Unit filename="source\IrrOdeNet\CEventControlMessage.cpp" />
+		<Unit filename="source\IrrOdeNet\CEventCpInfo.cpp" />
+		<Unit filename="source\IrrOdeNet\CEventIdentify.cpp" />
+		<Unit filename="source\IrrOdeNet\CEventInit.cpp" />
+		<Unit filename="source\IrrOdeNet\CEventPlayer.cpp" />
+		<Unit filename="source\IrrOdeNet\CEventServerMessage.cpp" />
+		<Unit filename="source\IrrOdeNet\CIrrOdeMessageFactory.cpp" />
+		<Unit filename="source\IrrOdeNet\CIrrOdeNetAdapter.cpp" />
+		<Unit filename="source\IrrOdeNet\CIrrOdeNetController.cpp" />
+		<Unit filename="source\IrrOdeNet\CIrrOdeRePlayer.cpp" />
+		<Unit filename="source\IrrOdeNet\CMarbleMessageFactory.cpp" />
+		<Unit filename="source\IrrOdeNet\CMarbles2Recorder.cpp" />
+		<Unit filename="source\IrrOdeNet\CMarbles2WorldObserver.cpp" />
+		<Unit filename="source\irrNetLite\CEncryption.h" />
+		<Unit filename="source\irrNetLite\CNetManager.cpp" />
+		<Unit filename="source\irrNetLite\CNetManager.h" />
+		<Unit filename="source\irrNetLite\SPacket.cpp" />
+		<Unit filename="source\irrNetLite\enet\enet.h" />
+		<Unit filename="source\irrNetLite\enet\enet\enet.h" />
+		<Unit filename="source\irrNetLite\enet\enet\list.h" />
+		<Unit filename="source\irrNetLite\enet\enet\memory.h" />
+		<Unit filename="source\irrNetLite\enet\enet\protocol.h" />
+		<Unit filename="source\irrNetLite\enet\enet\time.h" />
+		<Unit filename="source\irrNetLite\enet\enet\types.h" />
+		<Unit filename="source\irrNetLite\enet\enet\unix.h" />
+		<Unit filename="source\irrNetLite\enet\enet\utility.h" />
+		<Unit filename="source\irrNetLite\enet\enet\win32.h" />
+		<Unit filename="source\irrNetLite\enet\host.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\enet\include\enet\enet.h" />
+		<Unit filename="source\irrNetLite\enet\include\enet\list.h" />
+		<Unit filename="source\irrNetLite\enet\include\enet\memory.h" />
+		<Unit filename="source\irrNetLite\enet\include\enet\protocol.h" />
+		<Unit filename="source\irrNetLite\enet\include\enet\time.h" />
+		<Unit filename="source\irrNetLite\enet\include\enet\types.h" />
+		<Unit filename="source\irrNetLite\enet\include\enet\unix.h" />
+		<Unit filename="source\irrNetLite\enet\include\enet\utility.h" />
+		<Unit filename="source\irrNetLite\enet\include\enet\win32.h" />
+		<Unit filename="source\irrNetLite\enet\list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\enet\list.h" />
+		<Unit filename="source\irrNetLite\enet\memory.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\enet\memory.h" />
+		<Unit filename="source\irrNetLite\enet\packet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\enet\peer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\enet\protocol.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\enet\protocol.h" />
+		<Unit filename="source\irrNetLite\enet\time.h" />
+		<Unit filename="source\irrNetLite\enet\types.h" />
+		<Unit filename="source\irrNetLite\enet\unix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\enet\unix.h" />
+		<Unit filename="source\irrNetLite\enet\utility.h" />
+		<Unit filename="source\irrNetLite\enet\win32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\enet\win32.h" />
+		<Unit filename="source\irrNetLite\zlib\adler32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\compress.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\crc32.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\crc32.h" />
+		<Unit filename="source\irrNetLite\zlib\deflate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\deflate.h" />
+		<Unit filename="source\irrNetLite\zlib\gzio.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\infback.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\inffast.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\inffast.h" />
+		<Unit filename="source\irrNetLite\zlib\inffixed.h" />
+		<Unit filename="source\irrNetLite\zlib\inflate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\inflate.h" />
+		<Unit filename="source\irrNetLite\zlib\inftrees.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\inftrees.h" />
+		<Unit filename="source\irrNetLite\zlib\trees.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\trees.h" />
+		<Unit filename="source\irrNetLite\zlib\uncompr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\zconf.h" />
+		<Unit filename="source\irrNetLite\zlib\zlib.h" />
+		<Unit filename="source\irrNetLite\zlib\zutil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="source\irrNetLite\zlib\zutil.h" />
+		<Unit filename="source\main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

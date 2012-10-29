@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="marbles2">
+		<Project filename="marbles2.cbp" active="1">
+			<Depends filename="../../irrode/codeblocks/libIrrOde.cbp" />
+		</Project>
+		<Project filename="../../irrode/codeblocks/libIrrOde.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

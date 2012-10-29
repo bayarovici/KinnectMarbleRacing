@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\CConfigFileManager.h" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\CCredits.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="include\CGame.h" open="1" top="0" tabpos="8">
+		<Cursor position="511" topLine="66" />
+	</File>
+	<File name="include\CLevel.h" open="1" top="0" tabpos="10">
+		<Cursor position="398" topLine="0" />
+	</File>
+	<File name="include\CNetGame.h" open="0" top="0" tabpos="8">
+		<Cursor position="194" topLine="0" />
+	</File>
+	<File name="include\CReplaySelect.h" open="0" top="0" tabpos="0">
+		<Cursor position="559" topLine="5" />
+	</File>
+	<File name="include\CodeSnippets\CMessage.h" open="0" top="0" tabpos="0">
+		<Cursor position="509" topLine="9" />
+	</File>
+	<File name="include\CodeSnippets\CProgressBar.h" open="0" top="0" tabpos="1">
+		<Cursor position="45" topLine="0" />
+	</File>
+	<File name="include\CodeSnippets\CRenderToTextureManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="362" topLine="0" />
+	</File>
+	<File name="include\CodeSnippets\CRenderToTextureNode.h" open="0" top="0" tabpos="6">
+		<Cursor position="378" topLine="2" />
+	</File>
+	<File name="include\GameClasses\CGameLogic.h" open="0" top="0" tabpos="5">
+		<Cursor position="1583" topLine="47" />
+	</File>
+	<File name="include\GameClasses\CGameLogicClient.h" open="0" top="0" tabpos="3">
+		<Cursor position="907" topLine="15" />
+	</File>
+	<File name="include\GameClasses\CPlayer.h" open="0" top="0" tabpos="0">
+		<Cursor position="3685" topLine="76" />
+	</File>
+	<File name="include\GameClasses\CRaceInfo.h" open="0" top="0" tabpos="0">
+		<Cursor position="2341" topLine="50" />
+	</File>
+	<File name="include\GameClasses\CTournamentInfo.h" open="0" top="0" tabpos="0">
+		<Cursor position="1700" topLine="35" />
+	</File>
+	<File name="include\GameClasses\IGameLogic.h" open="0" top="0" tabpos="0">
+		<Cursor position="277" topLine="0" />
+	</File>
+	<File name="include\IState.h" open="0" top="0" tabpos="10">
+		<Cursor position="770" topLine="15" />
+	</File>
+	<File name="include\IrrOdeNet\CEventClientMessage.h" open="0" top="0" tabpos="0">
+		<Cursor position="813" topLine="19" />
+	</File>
+	<File name="include\IrrOdeNet\CEventControlMessage.h" open="0" top="0" tabpos="12">
+		<Cursor position="403" topLine="8" />
+	</File>
+	<File name="include\IrrOdeNet\CEventCpInfo.h" open="0" top="0" tabpos="9">
+		<Cursor position="721" topLine="11" />
+	</File>
+	<File name="include\IrrOdeNet\CEventIdentify.h" open="0" top="0" tabpos="10">
+		<Cursor position="72" topLine="0" />
+	</File>
+	<File name="include\IrrOdeNet\CEventInit.h" open="0" top="0" tabpos="7">
+		<Cursor position="522" topLine="6" />
+	</File>
+	<File name="include\IrrOdeNet\CEventPlayer.h" open="0" top="0" tabpos="4">
+		<Cursor position="705" topLine="6" />
+	</File>
+	<File name="include\IrrOdeNet\CEventServerMessage.h" open="0" top="0" tabpos="3">
+		<Cursor position="1194" topLine="13" />
+	</File>
+	<File name="include\IrrOdeNet\CIrrOdeRePlayer.h" open="0" top="0" tabpos="0">
+		<Cursor position="1480" topLine="36" />
+	</File>
+	<File name="include\IrrOdeNet\CMarbleMessageFactory.h" open="0" top="0" tabpos="11">
+		<Cursor position="146" topLine="0" />
+	</File>
+	<File name="include\IrrOdeNet\CMarbles2Recorder.h" open="0" top="0" tabpos="3">
+		<Cursor position="771" topLine="0" />
+	</File>
+	<File name="include\IrrOdeNet\NetMessages.h" open="0" top="0" tabpos="0">
+		<Cursor position="810" topLine="0" />
+	</File>
+	<File name="source\CCredits.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2087" topLine="63" />
+	</File>
+	<File name="source\CGame.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="21991" topLine="619" />
+	</File>
+	<File name="source\CLevel.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="8505" topLine="300" />
+	</File>
+	<File name="source\CMenu.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="1117" topLine="68" />
+	</File>
+	<File name="source\CNetGame.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="6058" topLine="194" />
+	</File>
+	<File name="source\CReplay.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="4676" topLine="120" />
+	</File>
+	<File name="source\CReplaySelect.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="6835" topLine="178" />
+	</File>
+	<File name="source\CStateMachine.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="396" topLine="0" />
+	</File>
+	<File name="source\CTournament.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2152" topLine="47" />
+	</File>
+	<File name="source\CTournamentRace.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="8480" topLine="220" />
+	</File>
+	<File name="source\CodeSnippets\CIrrOdeKlangNode.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="16580" topLine="422" />
+	</File>
+	<File name="source\CodeSnippets\CProgressBar.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="source\CodeSnippets\CRaceTrackLoader.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="805" topLine="0" />
+	</File>
+	<File name="source\CodeSnippets\CRenderToTextureManager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1187" topLine="29" />
+	</File>
+	<File name="source\GameClasses\CGameLogic.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="883" topLine="3" />
+	</File>
+	<File name="source\GameClasses\CGameLogicClient.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="481" topLine="0" />
+	</File>
+	<File name="source\GameClasses\CGhostPlayer.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2048" topLine="60" />
+	</File>
+	<File name="source\GameClasses\CMarbleFollowAnimator.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="1900" topLine="49" />
+	</File>
+	<File name="source\GameClasses\CPlayer.cpp" open="1" top="1" tabpos="12">
+		<Cursor position="11843" topLine="150" />
+	</File>
+	<File name="source\GameClasses\CRaceInfo.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2074" topLine="73" />
+	</File>
+	<File name="source\GameClasses\CTournamentBase.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="6880" topLine="180" />
+	</File>
+	<File name="source\GameClasses\CTournamentInfo.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1590" topLine="29" />
+	</File>
+	<File name="source\IrrOdeNet\CEventClientMessage.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="605" topLine="8" />
+	</File>
+	<File name="source\IrrOdeNet\CEventControlMessage.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="893" topLine="2" />
+	</File>
+	<File name="source\IrrOdeNet\CEventCpInfo.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="926" topLine="0" />
+	</File>
+	<File name="source\IrrOdeNet\CEventIdentify.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="672" topLine="0" />
+	</File>
+	<File name="source\IrrOdeNet\CEventInit.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="542" topLine="0" />
+	</File>
+	<File name="source\IrrOdeNet\CEventPlayer.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="582" topLine="0" />
+	</File>
+	<File name="source\IrrOdeNet\CEventServerMessage.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1230" topLine="31" />
+	</File>
+	<File name="source\IrrOdeNet\CIrrOdeMessageFactory.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="50" topLine="0" />
+	</File>
+	<File name="source\IrrOdeNet\CIrrOdeNetController.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="263" topLine="0" />
+	</File>
+	<File name="source\IrrOdeNet\CIrrOdeRePlayer.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="428" topLine="0" />
+	</File>
+	<File name="source\IrrOdeNet\CMarbles2Recorder.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="691" topLine="0" />
+	</File>
+	<File name="source\IrrOdeNet\CMarbles2WorldObserver.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2816" topLine="78" />
+	</File>
+	<File name="source\main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="440" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

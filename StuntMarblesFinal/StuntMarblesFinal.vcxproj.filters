@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="project">
+      <UniqueIdentifier>{bfad9de9-b5a7-44cb-87c2-8e399e518e37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\source">
+      <UniqueIdentifier>{aa36a385-4148-45ef-9a6e-58b45361dc23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\source\CodeSnippets">
+      <UniqueIdentifier>{d9edf965-1b43-4e53-84d8-25ba1af4314e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\source\GameClasses">
+      <UniqueIdentifier>{a595fc90-5dc5-4121-99bc-660d34270395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\Headers">
+      <UniqueIdentifier>{9022a81a-565e-449c-ad61-5e2900135851}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\Headers\include">
+      <UniqueIdentifier>{19c22b71-81b4-44e5-9a25-5c709ac2e07c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\Headers\include\CodeSnippets">
+      <UniqueIdentifier>{320ca0f7-1963-4dfb-b647-2d846c5fa963}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\Headers\include\GameClasses">
+      <UniqueIdentifier>{02174342-deab-44c8-91db-2851170c1d65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\Headers\source">
+      <UniqueIdentifier>{c41b8bb7-cb86-4b2e-b338-95e28a89aaab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\Headers\include\irrNetLite">
+      <UniqueIdentifier>{632ce093-9983-47ba-ad42-063d58d81cab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\Headers\include\IrrOdeNet">
+      <UniqueIdentifier>{4ab11ae2-6101-49eb-82de-d2d1c9953397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\source\IrrNetLite">
+      <UniqueIdentifier>{c8f17305-4205-4534-98aa-d1e7905b6765}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\source\IrrOdeNet">
+      <UniqueIdentifier>{b64f71a3-455f-4262-a835-e1b73683158e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project\source\Kinect">
+      <UniqueIdentifier>{6fc01346-51ef-4116-9253-321ccb15388d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="project\include\CConfigFileManager.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CCredits.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CGame.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CHiScore.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CLevel.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CMenu.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CNetGame.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\COptions.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CReplay.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CReplaySelect.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CSettings.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CStateMachine.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CTournament.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CTournamentRace.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IState.h">
+      <Filter>project\Headers\include</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CFollowPathAnimator.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CIrrOdeController.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CIrrOdeKlangManager.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CIrrOdeKlangNode.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CManagedShadow.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CMarbles2Replayer.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CMessage.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CPacketDistributor.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CPlugBULLETBYTEin.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CPreviewNode.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CProgressBar.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CRaceTrackGenerator.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CRaceTrackLoader.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CRenderToTextureManager.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CRenderToTextureNode.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CReplayCam.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CRespawnNode.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\CShadowManager.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\IIrrOdeController.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\CodeSnippets\irrCC.h">
+      <Filter>project\Headers\include\CodeSnippets</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CGameLogic.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CGameLogicClient.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CGhostClasses.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CGhostPlayer.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CGhostRecorder.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CGuiBase.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CHiScoreList.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CLevelList.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CLevelSelectGUI.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CMarbleFollowAnimator.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CNetPlayer.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CRaceInfo.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CTournamentBase.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\CTournamentInfo.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\GameClasses\IGameLogic.h">
+      <Filter>project\Headers\include\GameClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CEventClientMessage.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CEventControlMessage.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CEventCpInfo.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CEventIdentify.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CEventInit.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CEventPlayer.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CEventServerMessage.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CIrrOdeMessageFactory.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CIrrOdeNetAdapter.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CIrrOdeNetController.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CIrrOdeRePlayer.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CMarbleMessageFactory.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CMarbles2Recorder.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\CMarbles2WorldObserver.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\IMessageFactory.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\IPacketHandler.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\NetMessages.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\IrrOdeNet\WorldObserverMessages.h">
+      <Filter>project\Headers\include\IrrOdeNet</Filter>
+    </ClInclude>
+    <ClInclude Include="project\source\irrNetLite\CEncryption.h">
+      <Filter>project\Headers\include\irrNetLite</Filter>
+    </ClInclude>
+    <ClInclude Include="project\source\irrNetLite\CNetManager.h">
+      <Filter>project\Headers\include\irrNetLite</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\irrNetLite\SPacket.h">
+      <Filter>project\Headers\include\irrNetLite</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\Kinect\KinectGestures.h">
+      <Filter>project\source\Kinect</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\Kinect\KinectJoystickGUI.h">
+      <Filter>project\source\Kinect</Filter>
+    </ClInclude>
+    <ClInclude Include="project\include\Kinect\KinectFramework.h">
+      <Filter>project\source\Kinect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="project\source\CodeSnippets\CFollowPathAnimator.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CIrrOdeController.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CIrrOdeKlangManager.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CIrrOdeKlangNode.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CManagedShadow.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CMarbles2Replayer.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CMessage.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CPlugBULLETBYTEin.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CPreviewNode.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CProgressBar.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CRaceTrackGenerator.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CRaceTrackLoader.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CRenderToTextureManager.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CRenderToTextureNode.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CReplayCam.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CRespawnNode.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\CShadowManager.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CodeSnippets\irrCC.cpp">
+      <Filter>project\source\CodeSnippets</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CGameLogic.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CGameLogicClient.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CGhostPlayer.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CGhostRecorder.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CHiScoreList.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CLevelList.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CLevelSelectGUI.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CMarbleFollowAnimator.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CPlayer.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CRaceInfo.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CTournamentBase.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\GameClasses\CTournamentInfo.cpp">
+      <Filter>project\source\GameClasses</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CConfigFileManager.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CCredits.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CGame.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CHiScore.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CLevel.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CMenu.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CNetGame.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\COptions.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CReplay.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CReplaySelect.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CSettings.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CStateMachine.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CTournament.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\CTournamentRace.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\main.cpp">
+      <Filter>project\source</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CEventClientMessage.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CEventControlMessage.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CEventCpInfo.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CEventIdentify.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CEventInit.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CEventPlayer.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CEventServerMessage.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CIrrOdeMessageFactory.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CIrrOdeNetAdapter.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CIrrOdeNetController.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CIrrOdeRePlayer.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CMarbleMessageFactory.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CMarbles2Recorder.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\IrrOdeNet\CMarbles2WorldObserver.cpp">
+      <Filter>project\source\IrrOdeNet</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\irrNetLite\CNetManager.cpp">
+      <Filter>project\source\IrrNetLite</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\irrNetLite\SPacket.cpp">
+      <Filter>project\source\IrrNetLite</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\Kinect\KinectGestures.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\Kinect\KinectJoystickGUI.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\Kinect\KFBaseController.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\Kinect\KFLeanController.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\Kinect\KFLocationController.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="project\source\Kinect\KFCVWrapper.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="KFLeanController2.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="KFTurnController.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="KFKneeController.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+    <ClCompile Include="KFPendulumController.cpp">
+      <Filter>project\source\Kinect</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+This is the folder where the tornament defined by the user are saved.

@@ -1,0 +1,1 @@
+This is the folder where the hiscore tables are stored.
