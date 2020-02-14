@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2016
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StuntMarbles0.50", "StuntMarblesFinal\StuntMarblesFinal.vcxproj", "{1CE5131E-B1CE-4C17-83CD-E233A8C54FC6}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KinectMarbleRacing", "KinectMarbleRacing\KinectMarbleRacing.vdproj", "{D7AAD53A-1C22-4144-9FD3-CBC6B7877E6F}"
